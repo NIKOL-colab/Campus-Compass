@@ -24,3 +24,5 @@ app.get('*', (req, res) => {
 app.listen(PORT, () => {
   console.log(`\n  🧭 Campus Compass is running at http://localhost:${PORT}\n`);
 });
+
+module.exports = app;
