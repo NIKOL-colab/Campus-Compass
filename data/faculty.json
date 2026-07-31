@@ -1,0 +1,2511 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Rajesh Kumar",
+    "department": "Computer Engineering",
+    "subjects": [
+      "Data Structures",
+      "Algorithms",
+      "Machine Learning"
+    ],
+    "cabin": "CS Block, Room 204",
+    "phone": "+91 98765 43210",
+    "email": "rajesh.kumar@college.edu",
+    "status": "in-cabin",
+    "photo": "faculty_01.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Data Structures Lab",
+          "room": "CS-Lab-1",
+          "year": "2nd",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "ML Lab",
+          "room": "CS-Lab-2",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Prof. Anita Sharma",
+    "department": "Information Technology",
+    "subjects": [
+      "Database Management",
+      "Web Technologies",
+      "Cloud Computing"
+    ],
+    "cabin": "IT Block, Room 208",
+    "phone": "+91 98765 43211",
+    "email": "anita.sharma@college.edu",
+    "status": "in-class",
+    "photo": "faculty_02.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Database Management",
+          "room": "IT-103",
+          "year": "2nd",
+          "branch": "IT"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Web Technologies",
+          "room": "IT-104",
+          "year": "3rd",
+          "branch": "IT"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Cloud Computing",
+          "room": "IT-202",
+          "year": "4th",
+          "branch": "IT"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Database Management",
+          "room": "IT-103",
+          "year": "2nd",
+          "branch": "IT"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Web Technologies",
+          "room": "IT-104",
+          "year": "3rd",
+          "branch": "IT"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "DBMS Lab",
+          "room": "IT-Lab-1",
+          "year": "2nd",
+          "branch": "IT"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Cloud Computing",
+          "room": "IT-202",
+          "year": "4th",
+          "branch": "IT"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Web Technologies Lab",
+          "room": "IT-Lab-2",
+          "year": "3rd",
+          "branch": "IT"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Database Management",
+          "room": "IT-103",
+          "year": "2nd",
+          "branch": "IT"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Cloud Computing",
+          "room": "IT-202",
+          "year": "4th",
+          "branch": "IT"
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "name": "Dr. Vikram Patel",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Digital Electronics",
+      "VLSI Design",
+      "Embedded Systems"
+    ],
+    "cabin": "E&TC Block, Room 112",
+    "phone": "+91 98765 43212",
+    "email": "vikram.patel@college.edu",
+    "status": "in-cabin",
+    "photo": "faculty_03.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Digital Electronics",
+          "room": "ETC-101",
+          "year": "2nd",
+          "branch": "E&TC"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "VLSI Design",
+          "room": "ETC-201",
+          "year": "3rd",
+          "branch": "E&TC"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Embedded Systems",
+          "room": "ETC-202",
+          "year": "4th",
+          "branch": "E&TC"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Digital Electronics Lab",
+          "room": "ETC-Lab-1",
+          "year": "2nd",
+          "branch": "E&TC"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "VLSI Design",
+          "room": "ETC-201",
+          "year": "3rd",
+          "branch": "E&TC"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Embedded Systems",
+          "room": "ETC-202",
+          "year": "4th",
+          "branch": "E&TC"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Digital Electronics",
+          "room": "ETC-101",
+          "year": "2nd",
+          "branch": "E&TC"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "VLSI Lab",
+          "room": "ETC-Lab-2",
+          "year": "3rd",
+          "branch": "E&TC"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Embedded Systems",
+          "room": "ETC-202",
+          "year": "4th",
+          "branch": "E&TC"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Digital Electronics",
+          "room": "ETC-101",
+          "year": "2nd",
+          "branch": "E&TC"
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "name": "Prof. Meera Joshi",
+    "department": "Electronics Engineering (VLSI Design and Technology)",
+    "subjects": [
+      "Signal Processing",
+      "Communication Systems",
+      "Antenna Design"
+    ],
+    "cabin": "VLSI Block, Room 115",
+    "phone": "+91 98765 43213",
+    "email": "meera.joshi@college.edu",
+    "status": "on-leave",
+    "photo": "faculty_04.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Signal Processing",
+          "room": "VLSI-103",
+          "year": "3rd",
+          "branch": "VLSI"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Communication Systems",
+          "room": "VLSI-104",
+          "year": "3rd",
+          "branch": "VLSI"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Antenna Design",
+          "room": "VLSI-203",
+          "year": "4th",
+          "branch": "VLSI"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Signal Processing Lab",
+          "room": "VLSI-Lab-1",
+          "year": "3rd",
+          "branch": "VLSI"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Communication Systems",
+          "room": "VLSI-104",
+          "year": "3rd",
+          "branch": "VLSI"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Antenna Design",
+          "room": "VLSI-203",
+          "year": "4th",
+          "branch": "VLSI"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Signal Processing",
+          "room": "VLSI-103",
+          "year": "3rd",
+          "branch": "VLSI"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Communication Systems",
+          "room": "VLSI-104",
+          "year": "3rd",
+          "branch": "VLSI"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Antenna Design",
+          "room": "VLSI-203",
+          "year": "4th",
+          "branch": "VLSI"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Comm Systems Lab",
+          "room": "VLSI-Lab-2",
+          "year": "3rd",
+          "branch": "VLSI"
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "name": "Dr. Suresh Reddy",
+    "department": "Mechanical Engineering",
+    "subjects": [
+      "Thermodynamics",
+      "Fluid Mechanics",
+      "Heat Transfer"
+    ],
+    "cabin": "ME Block, Room 305",
+    "phone": "+91 98765 43214",
+    "email": "suresh.reddy@college.edu",
+    "status": "in-cabin",
+    "photo": "faculty_05.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Thermodynamics",
+          "room": "ME-101",
+          "year": "2nd",
+          "branch": "ME"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Fluid Mechanics",
+          "room": "ME-102",
+          "year": "3rd",
+          "branch": "ME"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Heat Transfer",
+          "room": "ME-201",
+          "year": "3rd",
+          "branch": "ME"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Thermodynamics",
+          "room": "ME-101",
+          "year": "2nd",
+          "branch": "ME"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Fluid Mechanics",
+          "room": "ME-102",
+          "year": "3rd",
+          "branch": "ME"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Thermo Lab",
+          "room": "ME-Lab-1",
+          "year": "2nd",
+          "branch": "ME"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Heat Transfer",
+          "room": "ME-201",
+          "year": "3rd",
+          "branch": "ME"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Fluid Mechanics",
+          "room": "ME-102",
+          "year": "3rd",
+          "branch": "ME"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Thermodynamics",
+          "room": "ME-101",
+          "year": "2nd",
+          "branch": "ME"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Heat Transfer Lab",
+          "room": "ME-Lab-2",
+          "year": "3rd",
+          "branch": "ME"
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "name": "Prof. Priya Nair",
+    "department": "Mechanical Engineering",
+    "subjects": [
+      "Manufacturing Technology",
+      "CAD/CAM",
+      "Robotics"
+    ],
+    "cabin": "ME Block, Room 308",
+    "phone": "+91 98765 43215",
+    "email": "priya.nair@college.edu",
+    "status": "in-class",
+    "photo": "faculty_06.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Manufacturing Technology",
+          "room": "ME-103",
+          "year": "3rd",
+          "branch": "ME"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "CAD/CAM",
+          "room": "ME-202",
+          "year": "4th",
+          "branch": "ME"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Robotics",
+          "room": "ME-203",
+          "year": "4th",
+          "branch": "ME"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Manufacturing Technology",
+          "room": "ME-103",
+          "year": "3rd",
+          "branch": "ME"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "CAD/CAM Lab",
+          "room": "ME-Lab-1",
+          "year": "4th",
+          "branch": "ME"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Robotics",
+          "room": "ME-203",
+          "year": "4th",
+          "branch": "ME"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Manufacturing Technology",
+          "room": "ME-103",
+          "year": "3rd",
+          "branch": "ME"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "CAD/CAM",
+          "room": "ME-202",
+          "year": "4th",
+          "branch": "ME"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Robotics Lab",
+          "room": "ME-Lab-2",
+          "year": "4th",
+          "branch": "ME"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Manufacturing Technology",
+          "room": "ME-103",
+          "year": "3rd",
+          "branch": "ME"
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "name": "Dr. Arjun Mehta",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Structural Analysis",
+      "Concrete Technology",
+      "Geotechnical Engineering"
+    ],
+    "cabin": "Civil Block, Room 106",
+    "phone": "+91 98765 43216",
+    "email": "arjun.mehta@college.edu",
+    "status": "in-cabin",
+    "photo": "faculty_07.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Structural Analysis",
+          "room": "CE-101",
+          "year": "3rd",
+          "branch": "CIVIL"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Concrete Technology",
+          "room": "CE-102",
+          "year": "3rd",
+          "branch": "CIVIL"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Geotechnical Engineering",
+          "room": "CE-201",
+          "year": "4th",
+          "branch": "CIVIL"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Structural Analysis Lab",
+          "room": "CE-Lab-1",
+          "year": "3rd",
+          "branch": "CIVIL"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Concrete Technology",
+          "room": "CE-102",
+          "year": "3rd",
+          "branch": "CIVIL"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Geotechnical Engineering",
+          "room": "CE-201",
+          "year": "4th",
+          "branch": "CIVIL"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Structural Analysis",
+          "room": "CE-101",
+          "year": "3rd",
+          "branch": "CIVIL"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Concrete Tech Lab",
+          "room": "CE-Lab-2",
+          "year": "3rd",
+          "branch": "CIVIL"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Geotechnical Engineering",
+          "room": "CE-201",
+          "year": "4th",
+          "branch": "CIVIL"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Structural Analysis",
+          "room": "CE-101",
+          "year": "3rd",
+          "branch": "CIVIL"
+        }
+      ]
+    }
+  },
+  {
+    "id": 8,
+    "name": "Prof. Kavitha Sundaram",
+    "department": "Civil Engineering (Regional)",
+    "subjects": [
+      "Environmental Engineering",
+      "Water Resources",
+      "Surveying"
+    ],
+    "cabin": "Civil Block, Room 109",
+    "phone": "+91 98765 43217",
+    "email": "kavitha.sundaram@college.edu",
+    "status": "in-cabin",
+    "photo": "faculty_08.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Environmental Engineering",
+          "room": "CE-103",
+          "year": "3rd",
+          "branch": "CIVILR"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Water Resources",
+          "room": "CE-202",
+          "year": "4th",
+          "branch": "CIVILR"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Surveying",
+          "room": "CE-104",
+          "year": "2nd",
+          "branch": "CIVILR"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Environmental Engineering",
+          "room": "CE-103",
+          "year": "3rd",
+          "branch": "CIVILR"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Water Resources",
+          "room": "CE-202",
+          "year": "4th",
+          "branch": "CIVILR"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Surveying Lab",
+          "room": "CE-Lab-1",
+          "year": "2nd",
+          "branch": "CIVILR"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Environmental Engineering",
+          "room": "CE-103",
+          "year": "3rd",
+          "branch": "CIVILR"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Water Resources",
+          "room": "CE-202",
+          "year": "4th",
+          "branch": "CIVILR"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Surveying",
+          "room": "CE-104",
+          "year": "2nd",
+          "branch": "CIVILR"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Env. Eng. Lab",
+          "room": "CE-Lab-2",
+          "year": "3rd",
+          "branch": "CIVILR"
+        }
+      ]
+    }
+  },
+  {
+    "id": 9,
+    "name": "Dr. Sanjay Gupta",
+    "department": "Computer Science & Engineering (AI-ML)",
+    "subjects": [
+      "Artificial Intelligence",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "cabin": "AIML Block, Room 210",
+    "phone": "+91 98765 43218",
+    "email": "sanjay.gupta@college.edu",
+    "status": "in-class",
+    "photo": "faculty_09.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Artificial Intelligence",
+          "room": "AI-101",
+          "year": "3rd",
+          "branch": "AIML"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Machine Learning",
+          "room": "AI-102",
+          "year": "3rd",
+          "branch": "AIML"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Deep Learning",
+          "room": "AI-201",
+          "year": "4th",
+          "branch": "AIML"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "AI Lab",
+          "room": "AI-Lab-1",
+          "year": "3rd",
+          "branch": "AIML"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Machine Learning",
+          "room": "AI-102",
+          "year": "3rd",
+          "branch": "AIML"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Deep Learning",
+          "room": "AI-201",
+          "year": "4th",
+          "branch": "AIML"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Artificial Intelligence",
+          "room": "AI-101",
+          "year": "3rd",
+          "branch": "AIML"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "ML Lab",
+          "room": "AI-Lab-2",
+          "year": "3rd",
+          "branch": "AIML"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Deep Learning",
+          "room": "AI-201",
+          "year": "4th",
+          "branch": "AIML"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Artificial Intelligence",
+          "room": "AI-101",
+          "year": "3rd",
+          "branch": "AIML"
+        }
+      ]
+    }
+  },
+  {
+    "id": 11,
+    "name": "Dr. Ramesh Iyer",
+    "department": "Computer Engineering",
+    "subjects": [
+      "Operating Systems",
+      "Computer Networks",
+      "Cybersecurity"
+    ],
+    "cabin": "CS Block, Room 211",
+    "phone": "+91 98765 43220",
+    "email": "ramesh.iyer@college.edu",
+    "status": "in-cabin",
+    "photo": "faculty_11.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Operating Systems",
+          "room": "CS-105",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Computer Networks",
+          "room": "CS-106",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Cybersecurity",
+          "room": "CS-203",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "OS Lab",
+          "room": "CS-Lab-1",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Computer Networks",
+          "room": "CS-106",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Cybersecurity",
+          "room": "CS-203",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Operating Systems",
+          "room": "CS-105",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Networks Lab",
+          "room": "CS-Lab-2",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Cybersecurity",
+          "room": "CS-203",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Operating Systems",
+          "room": "CS-105",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 12,
+    "name": "Prof. Lakshmi Venkatesh",
+    "department": "Computer Science & Engineering (AI-ML)",
+    "subjects": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Neural Networks"
+    ],
+    "cabin": "AIML Block, Room 215",
+    "phone": "+91 98765 43221",
+    "email": "lakshmi.venkatesh@college.edu",
+    "status": "in-class",
+    "photo": "faculty_12.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Computer Vision",
+          "room": "AI-107",
+          "year": "4th",
+          "branch": "AIML"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "NLP",
+          "room": "AI-204",
+          "year": "4th",
+          "branch": "AIML"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Neural Networks",
+          "room": "AI-205",
+          "year": "4th",
+          "branch": "AIML"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Computer Vision",
+          "room": "AI-107",
+          "year": "4th",
+          "branch": "AIML"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "NLP",
+          "room": "AI-204",
+          "year": "4th",
+          "branch": "AIML"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "CV Lab",
+          "room": "AI-Lab-1",
+          "year": "4th",
+          "branch": "AIML"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Neural Networks",
+          "room": "AI-205",
+          "year": "4th",
+          "branch": "AIML"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "NLP",
+          "room": "AI-204",
+          "year": "4th",
+          "branch": "AIML"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Computer Vision",
+          "room": "AI-107",
+          "year": "4th",
+          "branch": "AIML"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "NN Lab",
+          "room": "AI-Lab-2",
+          "year": "4th",
+          "branch": "AIML"
+        }
+      ]
+    }
+  },
+  {
+    "id": 13,
+    "name": "Dr. Neha Agarwal",
+    "department": "Applied Science and Humanities",
+    "subjects": [
+      "Linear Algebra",
+      "Engineering Mathematics",
+      "Discrete Mathematics"
+    ],
+    "cabin": "ASH Block, Room 401",
+    "phone": "+91 98765 43222",
+    "email": "neha.agarwal@college.edu",
+    "status": "in-cabin",
+    "photo": "faculty_13.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Linear Algebra",
+          "room": "ASH-101",
+          "year": "1st",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Engineering Mathematics",
+          "room": "ASH-102",
+          "year": "1st",
+          "branch": "E&TC"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Discrete Mathematics",
+          "room": "ASH-103",
+          "year": "1st",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Linear Algebra",
+          "room": "ASH-101",
+          "year": "1st",
+          "branch": "ME"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Engineering Mathematics",
+          "room": "ASH-102",
+          "year": "1st",
+          "branch": "E&TC"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Discrete Mathematics",
+          "room": "ASH-103",
+          "year": "1st",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Linear Algebra",
+          "room": "ASH-101",
+          "year": "1st",
+          "branch": "IT"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Engineering Mathematics",
+          "room": "ASH-102",
+          "year": "1st",
+          "branch": "CIVIL"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Discrete Mathematics",
+          "room": "ASH-103",
+          "year": "1st",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Linear Algebra",
+          "room": "ASH-101",
+          "year": "1st",
+          "branch": "ME"
+        }
+      ]
+    }
+  },
+  {
+    "id": 14,
+    "name": "Prof. Anil Deshmukh",
+    "department": "Applied Science and Humanities",
+    "subjects": [
+      "Engineering Physics",
+      "Quantum Mechanics",
+      "Engineering Chemistry"
+    ],
+    "cabin": "ASH Block, Room 405",
+    "phone": "+91 98765 43223",
+    "email": "anil.deshmukh@college.edu",
+    "status": "on-leave",
+    "photo": "faculty_14.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Engineering Physics",
+          "room": "ASH-104",
+          "year": "1st",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Quantum Mechanics",
+          "room": "ASH-201",
+          "year": "2nd",
+          "branch": "E&TC"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Engineering Chemistry",
+          "room": "ASH-202",
+          "year": "1st",
+          "branch": "IT"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Engineering Physics Lab",
+          "room": "ASH-Lab-1",
+          "year": "1st",
+          "branch": "ME"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Quantum Mechanics",
+          "room": "ASH-201",
+          "year": "2nd",
+          "branch": "E&TC"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Engineering Physics",
+          "room": "ASH-104",
+          "year": "1st",
+          "branch": "CIVIL"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Engineering Chemistry",
+          "room": "ASH-202",
+          "year": "1st",
+          "branch": "IT"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Physics Lab",
+          "room": "ASH-Lab-1",
+          "year": "1st",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Engineering Physics",
+          "room": "ASH-104",
+          "year": "1st",
+          "branch": "CIVIL"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Quantum Mechanics",
+          "room": "ASH-201",
+          "year": "2nd",
+          "branch": "E&TC"
+        }
+      ]
+    }
+  },
+  {
+    "id": 15,
+    "name": "Dr. Pooja Bhatt",
+    "department": "Information Technology",
+    "subjects": [
+      "Software Engineering",
+      "DevOps",
+      "Cloud Security"
+    ],
+    "cabin": "IT Block, Room 218",
+    "phone": "+91 98765 43224",
+    "email": "pooja.bhatt@college.edu",
+    "status": "in-cabin",
+    "photo": "faculty_15.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Software Engineering",
+          "room": "IT-108",
+          "year": "3rd",
+          "branch": "IT"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "DevOps",
+          "room": "IT-206",
+          "year": "4th",
+          "branch": "IT"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Cloud Security",
+          "room": "IT-207",
+          "year": "4th",
+          "branch": "IT"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Software Engineering",
+          "room": "IT-108",
+          "year": "3rd",
+          "branch": "IT"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "DevOps",
+          "room": "IT-206",
+          "year": "4th",
+          "branch": "IT"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "SE Lab",
+          "room": "IT-Lab-1",
+          "year": "3rd",
+          "branch": "IT"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Cloud Security",
+          "room": "IT-207",
+          "year": "4th",
+          "branch": "IT"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "DevOps Lab",
+          "room": "IT-Lab-2",
+          "year": "4th",
+          "branch": "IT"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Software Engineering",
+          "room": "IT-108",
+          "year": "3rd",
+          "branch": "IT"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Cloud Security",
+          "room": "IT-207",
+          "year": "4th",
+          "branch": "IT"
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "name": "Dr. Rachana Patil",
+    "department": "Computer Engineering (Regional Language)",
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "C++"
+    ],
+    "cabin": "CERL Block",
+    "phone": "+91 80871 74347",
+    "email": "pccoeadmin@gmail.com",
+    "status": "in-cabin",
+    "photo": "images/faculty/Rachana Patil.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Data Structures Lab",
+          "room": "CS-Lab-1",
+          "year": "2nd",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "ML Lab",
+          "room": "CS-Lab-2",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "name": "Dr. Sujata Kolhe",
+    "department": "Computer Engineering (Regional Language)",
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "C++"
+    ],
+    "cabin": "CERL Block",
+    "phone": "+91 80871 74347",
+    "email": "pccoeadmin@gmail.com",
+    "status": "in-cabin",
+    "photo": "images/faculty/Sujata Kolhe.webp",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Data Structures Lab",
+          "room": "CS-Lab-1",
+          "year": "2nd",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "ML Lab",
+          "room": "CS-Lab-2",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 18,
+    "name": "Dr. Vinayak Malavade",
+    "department": "Computer Engineering (Regional Language)",
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "C++"
+    ],
+    "cabin": "CERL Block",
+    "phone": "+91 80871 74347",
+    "email": "pccoeadmin@gmail.com",
+    "status": "in-cabin",
+    "photo": "images/faculty/Vinayak Malavade.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Data Structures Lab",
+          "room": "CS-Lab-1",
+          "year": "2nd",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "ML Lab",
+          "room": "CS-Lab-2",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "name": "Mr. Anandkumar Birajdar",
+    "department": "Computer Engineering (Regional Language)",
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "C++"
+    ],
+    "cabin": "CERL Block",
+    "phone": "+91 80871 74347",
+    "email": "pccoeadmin@gmail.com",
+    "status": "in-cabin",
+    "photo": "images/faculty/Anandkumar Birajdar.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Data Structures Lab",
+          "room": "CS-Lab-1",
+          "year": "2nd",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "ML Lab",
+          "room": "CS-Lab-2",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 20,
+    "name": "Mr. Ganesh Deshmukh",
+    "department": "Computer Engineering (Regional Language)",
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "C++"
+    ],
+    "cabin": "CERL Block",
+    "phone": "+91 80871 74347",
+    "email": "pccoeadmin@gmail.com",
+    "status": "in-cabin",
+    "photo": "images/faculty/Ganesh Deshmukh.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Data Structures Lab",
+          "room": "CS-Lab-1",
+          "year": "2nd",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "ML Lab",
+          "room": "CS-Lab-2",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 21,
+    "name": "Ms. Rucha A. Shinde",
+    "department": "Computer Engineering (Regional Language)",
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "C++"
+    ],
+    "cabin": "CERL Block",
+    "phone": "+91 80871 74347",
+    "email": "pccoeadmin@gmail.com",
+    "status": "in-cabin",
+    "photo": "images/faculty/Rucha A. Shinde.webp",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Data Structures Lab",
+          "room": "CS-Lab-1",
+          "year": "2nd",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "ML Lab",
+          "room": "CS-Lab-2",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 22,
+    "name": "Mrs. Minal Shahakar",
+    "department": "Computer Engineering (Regional Language)",
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "C++"
+    ],
+    "cabin": "CERL Block",
+    "phone": "+91 80871 74347",
+    "email": "pccoeadmin@gmail.com",
+    "status": "in-cabin",
+    "photo": "images/faculty/Minal Shahakar.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Data Structures Lab",
+          "room": "CS-Lab-1",
+          "year": "2nd",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "ML Lab",
+          "room": "CS-Lab-2",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 23,
+    "name": "Shalu Mahajan",
+    "department": "Computer Engineering (Regional Language)",
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "C++"
+    ],
+    "cabin": "CERL Block",
+    "phone": "+91 80871 74347",
+    "email": "pccoeadmin@gmail.com",
+    "status": "in-cabin",
+    "photo": "images/faculty/Shalu Mahajan.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Data Structures Lab",
+          "room": "CS-Lab-1",
+          "year": "2nd",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "ML Lab",
+          "room": "CS-Lab-2",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 24,
+    "name": "Ms. Varsha Pandagre",
+    "department": "Computer Engineering (Regional Language)",
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "C++"
+    ],
+    "cabin": "CERL Block",
+    "phone": "+91 80871 74347",
+    "email": "pccoeadmin@gmail.com",
+    "status": "in-cabin",
+    "photo": "images/faculty/Varsha Pandagre.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Data Structures Lab",
+          "room": "CS-Lab-1",
+          "year": "2nd",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "ML Lab",
+          "room": "CS-Lab-2",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 25,
+    "name": "Mrs. Supriya A Vaishnav",
+    "department": "Computer Engineering (Regional Language)",
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "C++"
+    ],
+    "cabin": "CERL Block",
+    "phone": "+91 80871 74347",
+    "email": "pccoeadmin@gmail.com",
+    "status": "in-cabin",
+    "photo": "images/faculty/Supriya A Vaishnav.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Data Structures Lab",
+          "room": "CS-Lab-1",
+          "year": "2nd",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "ML Lab",
+          "room": "CS-Lab-2",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ]
+    }
+  },
+  {
+    "id": 26,
+    "name": "Mrs. Geetanjali D. Bansod",
+    "department": "Computer Engineering (Regional Language)",
+    "subjects": [
+      "Data Structures",
+      "Operating Systems",
+      "C++"
+    ],
+    "cabin": "CERL Block",
+    "phone": "+91 80871 74347",
+    "email": "pccoeadmin@gmail.com",
+    "status": "in-cabin",
+    "photo": "images/faculty/Geetanjali D. Bansod.webp",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "13:00 - 14:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "Data Structures Lab",
+          "room": "CS-Lab-1",
+          "year": "2nd",
+          "branch": "CE"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 - 11:00",
+          "subject": "Machine Learning",
+          "room": "CS-201",
+          "year": "4th",
+          "branch": "CE"
+        },
+        {
+          "time": "14:00 - 15:00",
+          "subject": "Algorithms",
+          "room": "CS-102",
+          "year": "3rd",
+          "branch": "CE"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 - 10:00",
+          "subject": "Data Structures",
+          "room": "CS-101",
+          "year": "2nd",
+          "branch": "CE"
+        },
+        {
+          "time": "11:00 - 12:00",
+          "subject": "ML Lab",
+          "room": "CS-Lab-2",
+          "year": "4th",
+          "branch": "CE"
+        }
+      ]
+    }
+  }
+]

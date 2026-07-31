@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Applied Science and Humanities",
+    "code": "ASH",
+    "icon": "🔬"
+  },
+  {
+    "name": "Mechanical Engineering",
+    "code": "ME",
+    "icon": "⚙️"
+  },
+  {
+    "name": "Electronics and Telecommunication Engineering",
+    "code": "E&TC",
+    "icon": "📡"
+  },
+  {
+    "name": "Computer Engineering",
+    "code": "CE",
+    "icon": "💻"
+  },
+  {
+    "name": "Information Technology",
+    "code": "IT",
+    "icon": "🌐"
+  },
+  {
+    "name": "Civil Engineering",
+    "code": "CIVIL",
+    "icon": "🏗️"
+  },
+  {
+    "name": "Computer Science & Engineering (AI-ML)",
+    "code": "AIML",
+    "icon": "🤖"
+  },
+  {
+    "name": "Computer Engineering (Regional Language)",
+    "code": "CERL",
+    "icon": "📖"
+  },
+  {
+    "name": "Electronics Engineering (VLSI Design and Technology)",
+    "code": "VLSI",
+    "icon": "🔌"
+  },
+  {
+    "name": "Civil Engineering (Regional)",
+    "code": "CIVILR",
+    "icon": "🗺️"
+  }
+]
