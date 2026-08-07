@@ -1474,7 +1474,73 @@
     "email": "pccoeadmin@gmail.com",
     "status": "in-cabin",
     "photo": "images/faculty/Minal Shahakar.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "10:00 AM - 12:10 PM",
+          "subject": "Lab",
+          "room": "Bldg 9, Gr Floor, Rm 1"
+        },
+        {
+          "time": "02:10 PM - 04:10 PM",
+          "subject": "Lab",
+          "room": "Bldg 9, Gr Floor, Rm 2"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "09:00 AM - 11:00 AM",
+          "subject": "Lab",
+          "room": "Bldg 6, 2nd Fl, Rm 11"
+        },
+        {
+          "time": "03:10 PM - 04:10 PM",
+          "subject": "Theory",
+          "room": "Bldg 6, 4th Fl, Rm 14"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "11:10 AM - 12:10 PM",
+          "subject": "Theory",
+          "room": "Bldg 6, 4th Fl, Rm 14"
+        },
+        {
+          "time": "04:10 PM - 06:10 PM",
+          "subject": "Lab",
+          "room": "Bldg 6, 1st Fl, Rm 19"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "09:00 AM - 11:00 AM",
+          "subject": "Lab",
+          "room": "Bldg 6, 1st Fl, Rm 15"
+        },
+        {
+          "time": "03:10 PM - 05:10 PM",
+          "subject": "Lab",
+          "room": "Bldg 6, 1st Fl, Rm 19"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 AM - 11:00 AM",
+          "subject": "Lab",
+          "room": "Bldg 9, 1st Fl, Rm 16"
+        },
+        {
+          "time": "11:10 AM - 12:10 PM",
+          "subject": "Theory",
+          "room": "Bldg 6, 4th Fl, Rm 14"
+        },
+        {
+          "time": "01:10 PM - 03:10 PM",
+          "subject": "Lab",
+          "room": "Bldg 6, 2nd Fl, Rm 11"
+        }
+      ]
+    }
   },
   {
     "id": 23,
