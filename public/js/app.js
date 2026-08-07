@@ -298,7 +298,24 @@
           </button>
           <button class="erp-navbar__icon-btn"><span class="material-icons">fullscreen</span></button>
         </div>
-        <div class="erp-navbar__avatar" id="erp-avatar" title="Profile: ${escapeHTML(session.name)}">${initials}</div>
+        <div class="erp-navbar__avatar-wrap" id="erp-avatar-wrap">
+          <div class="erp-navbar__avatar" id="erp-avatar" title="Profile: ${escapeHTML(session.name)}">${initials}</div>
+          <div class="erp-navbar__dropdown" id="erp-avatar-dropdown">
+            <div class="erp-navbar__dropdown-header">
+              <div class="erp-navbar__dropdown-name">${escapeHTML(session.name)}</div>
+              <div class="erp-navbar__dropdown-role">${session.role === 'teacher' ? 'Faculty' : 'Student'}</div>
+            </div>
+            <div class="erp-navbar__dropdown-divider"></div>
+            <button class="erp-navbar__dropdown-item" id="erp-virtual-id">
+              <span class="material-icons">badge</span>
+              Virtual ID Card
+            </button>
+            <button class="erp-navbar__dropdown-item erp-navbar__dropdown-item--danger" id="erp-logout-btn">
+              <span class="material-icons">logout</span>
+              Logout
+            </button>
+          </div>
+        </div>
       </nav>
 
       <!-- User info bar -->
@@ -366,15 +383,35 @@
       });
     });
 
-    // Avatar click → toggle role (demo)
-    document.getElementById('erp-avatar').addEventListener('click', async () => {
-      const data = await fetchJSON('/api/session/toggle');
-      if (data) {
-        session.role = data.role;
-        session.name = session.name; // keep the actual name
-        localStorage.setItem('cc_session', JSON.stringify(session));
-        showToast(`Switched to ${data.role === 'teacher' ? 'Faculty' : 'Student'} mode`, 'info');
+    // Avatar dropdown toggle
+    const avatarWrap = document.getElementById('erp-avatar-wrap');
+    const avatarBtn = document.getElementById('erp-avatar');
+    const dropdown = document.getElementById('erp-avatar-dropdown');
+
+    avatarBtn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      dropdown.classList.toggle('erp-navbar__dropdown--open');
+    });
+
+    // Close dropdown on outside click
+    document.addEventListener('click', (e) => {
+      if (!avatarWrap.contains(e.target)) {
+        dropdown.classList.remove('erp-navbar__dropdown--open');
       }
+    });
+
+    // Logout button
+    document.getElementById('erp-logout-btn').addEventListener('click', () => {
+      localStorage.removeItem('cc_session');
+      session = null;
+      window.location.hash = '';
+      renderLoginPage();
+    });
+
+    // Virtual ID Card (placeholder for now)
+    document.getElementById('erp-virtual-id').addEventListener('click', () => {
+      dropdown.classList.remove('erp-navbar__dropdown--open');
+      showToast('Virtual ID Card coming soon!', 'info');
     });
   }
 
