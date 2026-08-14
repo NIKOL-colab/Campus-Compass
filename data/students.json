@@ -3,6 +3,7 @@
   { "year": "2nd", "branch": "CE", "cr": { "name": "Rohan Kapoor", "phone": "+91 90001 10003", "photo": "student_03.jpg" }, "lr": { "name": "Divya Menon", "phone": "+91 90001 10004", "photo": "student_04.jpg" } },
   { "year": "3rd", "branch": "CE", "cr": { "name": "Karthik Rajan", "phone": "+91 90001 10005", "photo": "student_05.jpg" }, "lr": { "name": "Isha Malhotra", "phone": "+91 90001 10006", "photo": "student_06.jpg" } },
   { "year": "4th", "branch": "CE", "cr": { "name": "Varun Saxena", "phone": "+91 90001 10007", "photo": "student_07.jpg" }, "lr": { "name": "Nandini Rao", "phone": "+91 90001 10008", "photo": "student_08.jpg" } },
+   { "year": "2nd", "branch": "CE RL", "cr": { "name": "Sandip Patil", "phone": "+91 90001 10003", "photo": "student_03.jpg" }, "lr": { "name": "Pruthvi Pawar", "phone": "+91 90001 10004", "photo": "student_04.jpg" } },
   { "year": "1st", "branch": "E&TC", "cr": { "name": "Aditya Chavan", "phone": "+91 90001 20001", "photo": "student_09.jpg" }, "lr": { "name": "Pooja Srinivasan", "phone": "+91 90001 20002", "photo": "student_10.jpg" } },
   { "year": "2nd", "branch": "E&TC", "cr": { "name": "Siddharth Kulkarni", "phone": "+91 90001 20003", "photo": "student_11.jpg" }, "lr": { "name": "Ananya Hegde", "phone": "+91 90001 20004", "photo": "student_12.jpg" } },
   { "year": "3rd", "branch": "E&TC", "cr": { "name": "Pranav Bhat", "phone": "+91 90001 20005", "photo": "student_13.jpg" }, "lr": { "name": "Ritika Jain", "phone": "+91 90001 20006", "photo": "student_14.jpg" } },

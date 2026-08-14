@@ -1375,7 +1375,7 @@
     ],
     "cabin": "CERL Block",
     "phone": "+91 80871 74347",
-    "email": "pccoeadmin@gmail.com",
+    "email": "rachana.patil@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rachana Patil.jpg",
     "timetable": {}
@@ -1391,10 +1391,28 @@
     ],
     "cabin": "CERL Block",
     "phone": "+91 80871 74347",
-    "email": "pccoeadmin@gmail.com",
+    "email": "sujata.kolhe@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sujata Kolhe.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [],
+      "Thursday": [
+        {
+          "time": "09:00 AM - 11:00 AM",
+          "subject": "SY A1 DEVL Lab",
+          "room": "Bldg 6, 2nd Fl, Rm 11"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 AM - 11:00 AM",
+          "subject": "SY A1 DEVL Lab",
+          "room": "Bldg 9, 1st Fl, Rm 15"
+        }
+      ]
+    }
   },
   {
     "id": 18,
@@ -1405,12 +1423,42 @@
       "Operating Systems",
       "C++"
     ],
-    "cabin": "CERL Block",
+    "cabin": "6th Building 5th floor Room 19",
     "phone": "+91 80871 74347",
-    "email": "pccoeadmin@gmail.com",
+    "email": "vinayak.malavade@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Vinayak Malavade.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "02:10 PM - 04:10 PM",
+          "subject": "SY A3 DEVL Lab",
+          "room": "Bldg 6, 1st Fl, Rm 19"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "09:00 AM - 11:00 AM",
+          "subject": "SY A2 DEVL Lab",
+          "room": "Bldg 6, 1st Fl, Rm 19"
+        }
+      ],
+      "Wednesday": [],
+      "Thursday": [
+        {
+          "time": "03:10 PM - 05:10 PM",
+          "subject": "SY A2 DEVL Lab",
+          "room": "Bldg 9, Gr Fl, Rm 2"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "01:10 PM - 03:10 PM",
+          "subject": "LSY A3 DEVL Lab",
+          "room": "Bldg 6, 1st Fl, Rm 19"
+        }
+      ]
+    }
   },
   {
     "id": 19,
@@ -1423,7 +1471,7 @@
     ],
     "cabin": "CERL Block",
     "phone": "+91 80871 74347",
-    "email": "pccoeadmin@gmail.com",
+    "email": "anandkumar.birajdar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Anandkumar Birajdar.jpg",
     "timetable": {}
@@ -1439,7 +1487,7 @@
     ],
     "cabin": "CERL Block",
     "phone": "+91 80871 74347",
-    "email": "pccoeadmin@gmail.com",
+    "email": "ganesh.deshmukh@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Ganesh Deshmukh.jpg",
     "timetable": {}
@@ -1455,7 +1503,7 @@
     ],
     "cabin": "CERL Block",
     "phone": "+91 80871 74347",
-    "email": "pccoeadmin@gmail.com",
+    "email": "rucha.shinde@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rucha A. Shinde.webp",
     "timetable": {}
@@ -1465,13 +1513,13 @@
     "name": "Mrs. Minal Shahakar",
     "department": "Computer Engineering (Regional Language)",
     "subjects": [
-      "Data Structures",
-      "Operating Systems",
+      "Data Structure and Analysis",
+      "Digital Marketing",
       "C++"
     ],
     "cabin": "CERL Block",
     "phone": "+91 80871 74347",
-    "email": "pccoeadmin@gmail.com",
+    "email": "minal.shahakar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Minal Shahakar.jpg",
     "timetable": {
@@ -1553,10 +1601,50 @@
     ],
     "cabin": "CERL Block",
     "phone": "+91 80871 74347",
-    "email": "pccoeadmin@gmail.com",
+    "email": "shalu.mahajan@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Shalu Mahajan.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "10:00 AM - 12:10 PM",
+          "subject": "Lab",
+          "room": "Bldg 9, 1st Floor, Rm 2"
+        },
+        {
+          "time": "02:10 PM - 04:10 PM",
+          "subject": "Lab",
+          "room": "Bldg 9, 1st Floor, Rm 2"
+        }
+      ],
+      "Tuesday": [],
+      "Wednesday": [
+        {
+          "time": "3:10 PM - 4:10 PM",
+          "subject": "Theory",
+          "room": "Bldg 6, 4th Fl, Rm 16"
+        },
+        {
+          "time": "04:10 PM - 06:10 PM",
+          "subject": "Lab",
+          "room": "Bldg 9, Gr Fl, Rm 2"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "11:10 AM - 12:10 AM",
+          "subject": "Theory",
+          "room": "Bldg 6, 4th Fl, Rm 16"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "01:10 PM - 03:10 PM",
+          "subject": "Lab",
+          "room": "Bldg 9, Gr Fl, Rm 2"
+        }
+      ]
+    }
   },
   {
     "id": 24,
@@ -1569,7 +1657,7 @@
     ],
     "cabin": "CERL Block",
     "phone": "+91 80871 74347",
-    "email": "pccoeadmin@gmail.com",
+    "email": "varsha.pandagre@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Varsha Pandagre.jpg",
     "timetable": {}
@@ -1585,7 +1673,7 @@
     ],
     "cabin": "CERL Block",
     "phone": "+91 80871 74347",
-    "email": "pccoeadmin@gmail.com",
+    "email": "supriya.vaishnav@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Supriya A Vaishnav.jpg",
     "timetable": {}
@@ -1595,15 +1683,530 @@
     "name": "Mrs. Geetanjali D. Bansod",
     "department": "Computer Engineering (Regional Language)",
     "subjects": [
-      "Data Structures",
-      "Operating Systems",
-      "C++"
+      "Design Thinking"
     ],
-    "cabin": "CERL Block",
-    "phone": "+91 80871 74347",
-    "email": "pccoeadmin@gmail.com",
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "geetanjali.bansod@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Geetanjali D. Bansod.webp",
+    "timetable": {
+      "Monday": [],
+      "Tuesday": [],
+      "Wednesday": [
+        {
+          "time": "10:00 AM - 11:00 AM",
+          "subject": "Theory",
+          "room": "Bldg 6, 2nd Fl, Rm 5"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "10:00 AM - 11:00 AM",
+          "subject": "TUT",
+          "room": "Bldg 6, 4th Fl, Rm 16"
+        },
+        {
+          "time": "03:10 PM - 04:10 PM",
+          "subject": "TUT",
+          "room": "Bldg 6, 4th Fl, Rm 16"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "10:00 AM - 11:00 AM",
+          "subject": "TUT",
+          "room": "Bldg 6, 4th Fl, Rm 16"
+        },
+        {
+          "time": "04:10 PM - 05:10 PM",
+          "subject": "TUT",
+          "room": "Bldg 6, 4th Fl, Rm 16"
+        }
+      ]
+    }
+  },
+  {
+    "id": 27,
+    "name": "Dr. Leena Sharma",
+    "department": "Applied Science and Humanities",
+    "subjects": [
+      "Discrete Mathematics",
+      "Engineering Mathematics"
+    ],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "leena.sharma@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Leena Sharma.webp",
+    "timetable": {}
+  },
+  {
+    "id": 28,
+    "name": "Dr. Sanjivani Sonar",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "shanjivani.sonar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Sanjivani Sonar.webp",
+    "timetable": {}
+  },
+  {
+    "id": 29,
+    "name": "Dr. Arfi Bagwan",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "arfi.bagwan@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Arfi Bagwan.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 30,
+    "name": "Dr. Priya Joshi",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "priya.joshi@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Priya Joshi.webp",
+    "timetable": {}
+  },
+  {
+    "id": 31,
+    "name": "Dr. Sonali Kale",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "sonali.kale@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Sonali Kale.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 32,
+    "name": "Dr. Ashwini Vaze",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "ashwini.vaze@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Ashwini Vaze.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 33,
+    "name": "Dr. Minakshi Panchal",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "minakshi.panchal@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Minakshi Panchal.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 34,
+    "name": "Dr. Sujata Bhamre",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "sujata.bhamre@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Sujata Bhamre.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 35,
+    "name": "Dr. Falguni Bhavsar",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "falguni.bhavsar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Falguni Bhavsar.jpeg",
+    "timetable": {}
+  },
+  {
+    "id": 36,
+    "name": "Dr. Sushma Parmar",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "sushma.parmar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Sushma Parmar.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 37,
+    "name": "Dr. Mahadev Kadam ",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "mahadev.kadam@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mahadev Kadam.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 38,
+    "name": "Dr. Shaziya Shaikh",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "shaziya.shaikh@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Shaziya Shaikh.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 39,
+    "name": "Dr. Sandeep Patil",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "snadeep.patil@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Sandeep Patil.jpeg",
+    "timetable": {}
+  },
+  {
+    "id": 40,
+    "name": "Dr. Neha Sharma",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "neha.sharma@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Neha Sharma.jpg",
+    "timetable": {}
+  },
+  {
+    "id": 41,
+    "name": "Dr. Amruta Patil",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "amruta.patil@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Amruta Patil.jpg",
+    "timetable": {}
+  },
+  {
+    "id": 42,
+    "name": "Dr. Sandip Jagadale",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "snadip.jagadale@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Sandip Jagadale.webp",
+    "timetable": {}
+  },
+  {
+    "id": 43,
+    "name": "Dr. Mohit Prasad",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "mohit.prasad@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mohit Prasad.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 44,
+    "name": "Dr. Amol Karche",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "amol.karche@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Amol Karche.webp",
+    "timetable": {}
+  },
+  {
+    "id": 45,
+    "name": "Dr. Arun Khalkar",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "arun.khalkar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Arun Khalkar.webp",
+    "timetable": {}
+  },
+  {
+    "id": 46,
+    "name": "Dr. Nishi Gupta",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "nishi.gupta@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Nishi Gupta.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 47,
+    "name": "Dr. Brijesh Deshmukh",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "brijesh.deshmukh@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Brijesh Deshmukh.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 48,
+    "name": "Dr. Jayashri Lohar",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "jayashri.lohar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Jayashri Lohar.jpg",
+    "timetable": {}
+  },
+  {
+    "id": 49,
+    "name": "Dr. Kaustubh Jhadhav",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "kaustubh.jhadhav@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Kaustubh Jhadhav.webp",
+    "timetable": {}
+  },
+  {
+    "id": 50,
+    "name": "Dr. Ganesh Mundhe",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "ganesh.mundhe@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Ganesh Mundhe.webp",
+    "timetable": {}
+  },
+  {
+    "id": 51,
+    "name": "Mr. Rajendra Jagtap",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "rajendra.jagtap@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Rajendra Jagtap.webp",
+    "timetable": {}
+  },
+  {
+    "id": 52,
+    "name": "Mrs. Anjali Sakurkar",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "anjali.sakurkar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Anjali Sakurkar.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 53,
+    "name": "Mr. Dinesh Kute",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "dinesh.kute@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dinesh Kute.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 54,
+    "name": "Mr. Ganesh Tarte",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "ganesh.tarte@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Ganesh Tarte.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 55,
+    "name": "Mr. Dattatraya Anarse",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "dattatraya.anarse@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dattatraya Anarse.jpg",
+    "timetable": {}
+  },
+  {
+    "id": 56,
+    "name": "Mrs. Pooja Potdar",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "pooja.potdar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Pooja Potdar.webp",
+    "timetable": {}
+  },
+  {
+    "id": 57,
+    "name": "Ms. Manjusha Devkule",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "manjusha.devkule@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Manjusha Devkule.webp",
+    "timetable": {}
+  },
+  {
+    "id": 58,
+    "name": "Mrs. Geetanjali Zambare ",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "geetanjali.zambare@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Geetanjali Zambare.webp",
+    "timetable": {}
+  },
+  {
+    "id": 59,
+    "name": "Mr. Sachin Shinde",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "sachin.shinde@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Sachin Shinde.jpeg",
+    "timetable": {}
+  },
+  {
+    "id": 60,
+    "name": "Mr. Sanjay Mapari",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "sanjay.mapari@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Sanjay Mapari.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 61,
+    "name": "Mr. Rajesh Talekar",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "rajesh.talekar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Rajesh Talekar.jfif",
+    "timetable": {}
+  },
+  {
+    "id": 62,
+    "name": "Mr. Prajakta Pendam",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "prajakta.pendam@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Prajakta Pendam.webp",
+    "timetable": {}
+  },
+  {
+    "id": 63,
+    "name": "Mrs. Vithika Sidhabhatt",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "vithika.sidhabhatt@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Vithika Sidhabhatti.webp",
+    "timetable": {}
+  },
+  {
+    "id": 64,
+    "name": "Ms. Rebecca George",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "rebecca.george@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Rebecca George.webp",
+    "timetable": {}
+  },
+  {
+    "id": 65,
+    "name": "Mr. Bhausaheb Sanap",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "bhausaheb.sanap@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Bhausaheb Sanap.jpg",
+    "timetable": {}
+  },
+  {
+    "id": 66,
+    "name": "Ms. Viveka Godse",
+    "department": "Applied Science and Humanities",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "viveka.godse@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Viveka Godse.jpg",
     "timetable": {}
   }
 ]
