@@ -30,9 +30,6 @@
     const stored = localStorage.getItem('cc_session');
     if (stored) {
       session = JSON.parse(stored);
-      // Also sync with server
-      const serverSession = await fetchJSON('/api/session');
-      if (serverSession) session = serverSession;
       routeByHash();
     } else {
       renderLoginPage();
@@ -217,11 +214,6 @@
       };
 
       localStorage.setItem('cc_session', JSON.stringify(session));
-
-      // Also set server session
-      if (isTeacher) {
-        await fetchJSON('/api/session/toggle');
-      }
 
       window.location.hash = '#/erp';
       renderERPDashboard();
@@ -461,9 +453,6 @@
         const nextRole = session.role === 'teacher' ? 'student' : 'teacher';
         session.role = nextRole;
         localStorage.setItem('cc_session', JSON.stringify(session));
-
-        // Call backend API to sync
-        fetchJSON('/api/session/toggle');
 
         showToast(`Switched to ${nextRole === 'teacher' ? 'Faculty' : 'Student'} Mode`, 'info');
         renderCompassDashboard(); // re-render view with 4 search boxes if teacher, 3 if student

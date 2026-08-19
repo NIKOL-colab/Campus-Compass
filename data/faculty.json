@@ -16,91 +16,39 @@
     "timetable": {
       "Monday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Data Structures",
-          "room": "CS-101",
-          "year": "2nd",
-          "branch": "CE"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Algorithms",
-          "room": "CS-102",
-          "year": "3rd",
-          "branch": "CE"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Machine Learning",
-          "room": "CS-201",
-          "year": "4th",
-          "branch": "CE"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Data Structures",
-          "room": "CS-101",
-          "year": "2nd",
-          "branch": "CE"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "Machine Learning",
-          "room": "CS-201",
-          "year": "4th",
-          "branch": "CE"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Algorithms",
-          "room": "CS-102",
-          "year": "3rd",
-          "branch": "CE"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Data Structures Lab",
-          "room": "CS-Lab-1",
-          "year": "2nd",
-          "branch": "CE"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Machine Learning",
-          "room": "CS-201",
-          "year": "4th",
-          "branch": "CE"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Algorithms",
-          "room": "CS-102",
-          "year": "3rd",
-          "branch": "CE"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Data Structures",
-          "room": "CS-101",
-          "year": "2nd",
-          "branch": "CE"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "ML Lab",
-          "room": "CS-Lab-2",
-          "year": "4th",
-          "branch": "CE"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -120,84 +68,39 @@
     "timetable": {
       "Monday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Database Management",
-          "room": "IT-103",
-          "year": "2nd",
-          "branch": "IT"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Web Technologies",
-          "room": "IT-104",
-          "year": "3rd",
-          "branch": "IT"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Cloud Computing",
-          "room": "IT-202",
-          "year": "4th",
-          "branch": "IT"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Database Management",
-          "room": "IT-103",
-          "year": "2nd",
-          "branch": "IT"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Web Technologies",
-          "room": "IT-104",
-          "year": "3rd",
-          "branch": "IT"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "DBMS Lab",
-          "room": "IT-Lab-1",
-          "year": "2nd",
-          "branch": "IT"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Cloud Computing",
-          "room": "IT-202",
-          "year": "4th",
-          "branch": "IT"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "Web Technologies Lab",
-          "room": "IT-Lab-2",
-          "year": "3rd",
-          "branch": "IT"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Database Management",
-          "room": "IT-103",
-          "year": "2nd",
-          "branch": "IT"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Cloud Computing",
-          "room": "IT-202",
-          "year": "4th",
-          "branch": "IT"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -217,84 +120,39 @@
     "timetable": {
       "Monday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Digital Electronics",
-          "room": "ETC-101",
-          "year": "2nd",
-          "branch": "E&TC"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "VLSI Design",
-          "room": "ETC-201",
-          "year": "3rd",
-          "branch": "E&TC"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Embedded Systems",
-          "room": "ETC-202",
-          "year": "4th",
-          "branch": "E&TC"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Digital Electronics Lab",
-          "room": "ETC-Lab-1",
-          "year": "2nd",
-          "branch": "E&TC"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "VLSI Design",
-          "room": "ETC-201",
-          "year": "3rd",
-          "branch": "E&TC"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Embedded Systems",
-          "room": "ETC-202",
-          "year": "4th",
-          "branch": "E&TC"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Digital Electronics",
-          "room": "ETC-101",
-          "year": "2nd",
-          "branch": "E&TC"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "VLSI Lab",
-          "room": "ETC-Lab-2",
-          "year": "3rd",
-          "branch": "E&TC"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Embedded Systems",
-          "room": "ETC-202",
-          "year": "4th",
-          "branch": "E&TC"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Digital Electronics",
-          "room": "ETC-101",
-          "year": "2nd",
-          "branch": "E&TC"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -314,84 +172,39 @@
     "timetable": {
       "Monday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Signal Processing",
-          "room": "VLSI-103",
-          "year": "3rd",
-          "branch": "VLSI"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Communication Systems",
-          "room": "VLSI-104",
-          "year": "3rd",
-          "branch": "VLSI"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Antenna Design",
-          "room": "VLSI-203",
-          "year": "4th",
-          "branch": "VLSI"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Signal Processing Lab",
-          "room": "VLSI-Lab-1",
-          "year": "3rd",
-          "branch": "VLSI"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Communication Systems",
-          "room": "VLSI-104",
-          "year": "3rd",
-          "branch": "VLSI"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Antenna Design",
-          "room": "VLSI-203",
-          "year": "4th",
-          "branch": "VLSI"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Signal Processing",
-          "room": "VLSI-103",
-          "year": "3rd",
-          "branch": "VLSI"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Communication Systems",
-          "room": "VLSI-104",
-          "year": "3rd",
-          "branch": "VLSI"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Antenna Design",
-          "room": "VLSI-203",
-          "year": "4th",
-          "branch": "VLSI"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Comm Systems Lab",
-          "room": "VLSI-Lab-2",
-          "year": "3rd",
-          "branch": "VLSI"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -411,84 +224,39 @@
     "timetable": {
       "Monday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Thermodynamics",
-          "room": "ME-101",
-          "year": "2nd",
-          "branch": "ME"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "Fluid Mechanics",
-          "room": "ME-102",
-          "year": "3rd",
-          "branch": "ME"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Heat Transfer",
-          "room": "ME-201",
-          "year": "3rd",
-          "branch": "ME"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Thermodynamics",
-          "room": "ME-101",
-          "year": "2nd",
-          "branch": "ME"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Fluid Mechanics",
-          "room": "ME-102",
-          "year": "3rd",
-          "branch": "ME"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Thermo Lab",
-          "room": "ME-Lab-1",
-          "year": "2nd",
-          "branch": "ME"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Heat Transfer",
-          "room": "ME-201",
-          "year": "3rd",
-          "branch": "ME"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "Fluid Mechanics",
-          "room": "ME-102",
-          "year": "3rd",
-          "branch": "ME"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Thermodynamics",
-          "room": "ME-101",
-          "year": "2nd",
-          "branch": "ME"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Heat Transfer Lab",
-          "room": "ME-Lab-2",
-          "year": "3rd",
-          "branch": "ME"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -508,84 +276,39 @@
     "timetable": {
       "Monday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Manufacturing Technology",
-          "room": "ME-103",
-          "year": "3rd",
-          "branch": "ME"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "CAD/CAM",
-          "room": "ME-202",
-          "year": "4th",
-          "branch": "ME"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Robotics",
-          "room": "ME-203",
-          "year": "4th",
-          "branch": "ME"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Manufacturing Technology",
-          "room": "ME-103",
-          "year": "3rd",
-          "branch": "ME"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "CAD/CAM Lab",
-          "room": "ME-Lab-1",
-          "year": "4th",
-          "branch": "ME"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Robotics",
-          "room": "ME-203",
-          "year": "4th",
-          "branch": "ME"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Manufacturing Technology",
-          "room": "ME-103",
-          "year": "3rd",
-          "branch": "ME"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "CAD/CAM",
-          "room": "ME-202",
-          "year": "4th",
-          "branch": "ME"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Robotics Lab",
-          "room": "ME-Lab-2",
-          "year": "4th",
-          "branch": "ME"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Manufacturing Technology",
-          "room": "ME-103",
-          "year": "3rd",
-          "branch": "ME"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -605,84 +328,39 @@
     "timetable": {
       "Monday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Structural Analysis",
-          "room": "CE-101",
-          "year": "3rd",
-          "branch": "CIVIL"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Concrete Technology",
-          "room": "CE-102",
-          "year": "3rd",
-          "branch": "CIVIL"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Geotechnical Engineering",
-          "room": "CE-201",
-          "year": "4th",
-          "branch": "CIVIL"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Structural Analysis Lab",
-          "room": "CE-Lab-1",
-          "year": "3rd",
-          "branch": "CIVIL"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Concrete Technology",
-          "room": "CE-102",
-          "year": "3rd",
-          "branch": "CIVIL"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Geotechnical Engineering",
-          "room": "CE-201",
-          "year": "4th",
-          "branch": "CIVIL"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Structural Analysis",
-          "room": "CE-101",
-          "year": "3rd",
-          "branch": "CIVIL"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "Concrete Tech Lab",
-          "room": "CE-Lab-2",
-          "year": "3rd",
-          "branch": "CIVIL"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Geotechnical Engineering",
-          "room": "CE-201",
-          "year": "4th",
-          "branch": "CIVIL"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Structural Analysis",
-          "room": "CE-101",
-          "year": "3rd",
-          "branch": "CIVIL"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -699,87 +377,42 @@
     "email": "kavitha.sundaram@college.edu",
     "status": "in-cabin",
     "photo": "faculty_08.jpg",
-    "timetable": {
+    "timetable":{
       "Monday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Environmental Engineering",
-          "room": "CE-103",
-          "year": "3rd",
-          "branch": "CIVILR"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Water Resources",
-          "room": "CE-202",
-          "year": "4th",
-          "branch": "CIVILR"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Surveying",
-          "room": "CE-104",
-          "year": "2nd",
-          "branch": "CIVILR"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Environmental Engineering",
-          "room": "CE-103",
-          "year": "3rd",
-          "branch": "CIVILR"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Water Resources",
-          "room": "CE-202",
-          "year": "4th",
-          "branch": "CIVILR"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Surveying Lab",
-          "room": "CE-Lab-1",
-          "year": "2nd",
-          "branch": "CIVILR"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Environmental Engineering",
-          "room": "CE-103",
-          "year": "3rd",
-          "branch": "CIVILR"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "Water Resources",
-          "room": "CE-202",
-          "year": "4th",
-          "branch": "CIVILR"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Surveying",
-          "room": "CE-104",
-          "year": "2nd",
-          "branch": "CIVILR"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Env. Eng. Lab",
-          "room": "CE-Lab-2",
-          "year": "3rd",
-          "branch": "CIVILR"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -799,84 +432,39 @@
     "timetable": {
       "Monday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Artificial Intelligence",
-          "room": "AI-101",
-          "year": "3rd",
-          "branch": "AIML"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "Machine Learning",
-          "room": "AI-102",
-          "year": "3rd",
-          "branch": "AIML"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Deep Learning",
-          "room": "AI-201",
-          "year": "4th",
-          "branch": "AIML"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "AI Lab",
-          "room": "AI-Lab-1",
-          "year": "3rd",
-          "branch": "AIML"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Machine Learning",
-          "room": "AI-102",
-          "year": "3rd",
-          "branch": "AIML"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Deep Learning",
-          "room": "AI-201",
-          "year": "4th",
-          "branch": "AIML"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Artificial Intelligence",
-          "room": "AI-101",
-          "year": "3rd",
-          "branch": "AIML"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "ML Lab",
-          "room": "AI-Lab-2",
-          "year": "3rd",
-          "branch": "AIML"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Deep Learning",
-          "room": "AI-201",
-          "year": "4th",
-          "branch": "AIML"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Artificial Intelligence",
-          "room": "AI-101",
-          "year": "3rd",
-          "branch": "AIML"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -896,84 +484,39 @@
     "timetable": {
       "Monday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Operating Systems",
-          "room": "CS-105",
-          "year": "3rd",
-          "branch": "CE"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Computer Networks",
-          "room": "CS-106",
-          "year": "3rd",
-          "branch": "CE"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Cybersecurity",
-          "room": "CS-203",
-          "year": "4th",
-          "branch": "CE"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "OS Lab",
-          "room": "CS-Lab-1",
-          "year": "3rd",
-          "branch": "CE"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Computer Networks",
-          "room": "CS-106",
-          "year": "3rd",
-          "branch": "CE"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Cybersecurity",
-          "room": "CS-203",
-          "year": "4th",
-          "branch": "CE"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Operating Systems",
-          "room": "CS-105",
-          "year": "3rd",
-          "branch": "CE"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "Networks Lab",
-          "room": "CS-Lab-2",
-          "year": "3rd",
-          "branch": "CE"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Cybersecurity",
-          "room": "CS-203",
-          "year": "4th",
-          "branch": "CE"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Operating Systems",
-          "room": "CS-105",
-          "year": "3rd",
-          "branch": "CE"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -993,84 +536,39 @@
     "timetable": {
       "Monday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Computer Vision",
-          "room": "AI-107",
-          "year": "4th",
-          "branch": "AIML"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "NLP",
-          "room": "AI-204",
-          "year": "4th",
-          "branch": "AIML"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Neural Networks",
-          "room": "AI-205",
-          "year": "4th",
-          "branch": "AIML"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Computer Vision",
-          "room": "AI-107",
-          "year": "4th",
-          "branch": "AIML"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "NLP",
-          "room": "AI-204",
-          "year": "4th",
-          "branch": "AIML"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "CV Lab",
-          "room": "AI-Lab-1",
-          "year": "4th",
-          "branch": "AIML"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Neural Networks",
-          "room": "AI-205",
-          "year": "4th",
-          "branch": "AIML"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "NLP",
-          "room": "AI-204",
-          "year": "4th",
-          "branch": "AIML"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Computer Vision",
-          "room": "AI-107",
-          "year": "4th",
-          "branch": "AIML"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "NN Lab",
-          "room": "AI-Lab-2",
-          "year": "4th",
-          "branch": "AIML"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -1090,84 +588,39 @@
     "timetable": {
       "Monday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Linear Algebra",
-          "room": "ASH-101",
-          "year": "1st",
-          "branch": "CE"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Engineering Mathematics",
-          "room": "ASH-102",
-          "year": "1st",
-          "branch": "E&TC"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Discrete Mathematics",
-          "room": "ASH-103",
-          "year": "1st",
-          "branch": "CE"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Linear Algebra",
-          "room": "ASH-101",
-          "year": "1st",
-          "branch": "ME"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Engineering Mathematics",
-          "room": "ASH-102",
-          "year": "1st",
-          "branch": "E&TC"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Discrete Mathematics",
-          "room": "ASH-103",
-          "year": "1st",
-          "branch": "CE"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Linear Algebra",
-          "room": "ASH-101",
-          "year": "1st",
-          "branch": "IT"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "Engineering Mathematics",
-          "room": "ASH-102",
-          "year": "1st",
-          "branch": "CIVIL"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Discrete Mathematics",
-          "room": "ASH-103",
-          "year": "1st",
-          "branch": "CE"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Linear Algebra",
-          "room": "ASH-101",
-          "year": "1st",
-          "branch": "ME"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -1187,84 +640,39 @@
     "timetable": {
       "Monday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Engineering Physics",
-          "room": "ASH-104",
-          "year": "1st",
-          "branch": "CE"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Quantum Mechanics",
-          "room": "ASH-201",
-          "year": "2nd",
-          "branch": "E&TC"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Engineering Chemistry",
-          "room": "ASH-202",
-          "year": "1st",
-          "branch": "IT"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "Engineering Physics Lab",
-          "room": "ASH-Lab-1",
-          "year": "1st",
-          "branch": "ME"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Quantum Mechanics",
-          "room": "ASH-201",
-          "year": "2nd",
-          "branch": "E&TC"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Engineering Physics",
-          "room": "ASH-104",
-          "year": "1st",
-          "branch": "CIVIL"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Engineering Chemistry",
-          "room": "ASH-202",
-          "year": "1st",
-          "branch": "IT"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "Physics Lab",
-          "room": "ASH-Lab-1",
-          "year": "1st",
-          "branch": "CE"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Engineering Physics",
-          "room": "ASH-104",
-          "year": "1st",
-          "branch": "CIVIL"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Quantum Mechanics",
-          "room": "ASH-201",
-          "year": "2nd",
-          "branch": "E&TC"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -1284,84 +692,39 @@
     "timetable": {
       "Monday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Software Engineering",
-          "room": "IT-108",
-          "year": "3rd",
-          "branch": "IT"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "DevOps",
-          "room": "IT-206",
-          "year": "4th",
-          "branch": "IT"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
       ],
       "Tuesday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Cloud Security",
-          "room": "IT-207",
-          "year": "4th",
-          "branch": "IT"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Software Engineering",
-          "room": "IT-108",
-          "year": "3rd",
-          "branch": "IT"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Wednesday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "DevOps",
-          "room": "IT-206",
-          "year": "4th",
-          "branch": "IT"
-        },
-        {
-          "time": "11:00 - 12:00",
-          "subject": "SE Lab",
-          "room": "IT-Lab-1",
-          "year": "3rd",
-          "branch": "IT"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Thursday": [
         {
-          "time": "10:00 - 11:00",
-          "subject": "Cloud Security",
-          "room": "IT-207",
-          "year": "4th",
-          "branch": "IT"
-        },
-        {
-          "time": "13:00 - 14:00",
-          "subject": "DevOps Lab",
-          "room": "IT-Lab-2",
-          "year": "4th",
-          "branch": "IT"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ],
+    ],
       "Friday": [
         {
-          "time": "09:00 - 10:00",
-          "subject": "Software Engineering",
-          "room": "IT-108",
-          "year": "3rd",
-          "branch": "IT"
-        },
-        {
-          "time": "14:00 - 15:00",
-          "subject": "Cloud Security",
-          "room": "IT-207",
-          "year": "4th",
-          "branch": "IT"
+          "time": "",
+          "subject": "",
+          "room": ""
         }
-      ]
+    ]
     }
   },
   {
@@ -1378,7 +741,43 @@
     "email": "rachana.patil@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rachana Patil.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 17,
@@ -1474,7 +873,43 @@
     "email": "anandkumar.birajdar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Anandkumar Birajdar.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 20,
@@ -1490,7 +925,43 @@
     "email": "ganesh.deshmukh@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Ganesh Deshmukh.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 21,
@@ -1506,7 +977,43 @@
     "email": "rucha.shinde@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rucha A. Shinde.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 22,
@@ -1660,7 +1167,43 @@
     "email": "varsha.pandagre@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Varsha Pandagre.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 25,
@@ -1676,7 +1219,43 @@
     "email": "supriya.vaishnav@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Supriya A Vaishnav.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 26,
@@ -1739,7 +1318,43 @@
     "email": "leena.sharma@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Leena Sharma.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 28,
@@ -1751,7 +1366,43 @@
     "email": "shanjivani.sonar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sanjivani Sonar.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 29,
@@ -1763,7 +1414,43 @@
     "email": "arfi.bagwan@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Arfi Bagwan.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 30,
@@ -1775,7 +1462,43 @@
     "email": "priya.joshi@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Priya Joshi.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 31,
@@ -1787,7 +1510,43 @@
     "email": "sonali.kale@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sonali Kale.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 32,
@@ -1799,7 +1558,43 @@
     "email": "ashwini.vaze@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Ashwini Vaze.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 33,
@@ -1811,7 +1606,43 @@
     "email": "minakshi.panchal@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Minakshi Panchal.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 34,
@@ -1823,7 +1654,43 @@
     "email": "sujata.bhamre@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sujata Bhamre.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 35,
@@ -1835,7 +1702,43 @@
     "email": "falguni.bhavsar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Falguni Bhavsar.jpeg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 36,
@@ -1847,7 +1750,43 @@
     "email": "sushma.parmar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sushma Parmar.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 37,
@@ -1859,7 +1798,43 @@
     "email": "mahadev.kadam@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mahadev Kadam.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 38,
@@ -1871,7 +1846,43 @@
     "email": "shaziya.shaikh@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Shaziya Shaikh.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 39,
@@ -1883,7 +1894,43 @@
     "email": "snadeep.patil@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sandeep Patil.jpeg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 40,
@@ -1895,7 +1942,43 @@
     "email": "neha.sharma@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Neha Sharma.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 41,
@@ -1907,7 +1990,43 @@
     "email": "amruta.patil@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Amruta Patil.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 42,
@@ -1919,7 +2038,43 @@
     "email": "snadip.jagadale@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sandip Jagadale.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 43,
@@ -1931,7 +2086,43 @@
     "email": "mohit.prasad@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mohit Prasad.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 44,
@@ -1943,7 +2134,43 @@
     "email": "amol.karche@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Amol Karche.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 45,
@@ -1955,7 +2182,43 @@
     "email": "arun.khalkar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Arun Khalkar.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 46,
@@ -1967,7 +2230,43 @@
     "email": "nishi.gupta@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Nishi Gupta.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 47,
@@ -1979,7 +2278,43 @@
     "email": "brijesh.deshmukh@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Brijesh Deshmukh.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 48,
@@ -1991,7 +2326,43 @@
     "email": "jayashri.lohar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Jayashri Lohar.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 49,
@@ -2003,7 +2374,43 @@
     "email": "kaustubh.jhadhav@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Kaustubh Jhadhav.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 50,
@@ -2015,7 +2422,43 @@
     "email": "ganesh.mundhe@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Ganesh Mundhe.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 51,
@@ -2027,7 +2470,43 @@
     "email": "rajendra.jagtap@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rajendra Jagtap.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 52,
@@ -2039,7 +2518,43 @@
     "email": "anjali.sakurkar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Anjali Sakurkar.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 53,
@@ -2051,7 +2566,43 @@
     "email": "dinesh.kute@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dinesh Kute.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 54,
@@ -2063,7 +2614,43 @@
     "email": "ganesh.tarte@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Ganesh Tarte.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 55,
@@ -2075,7 +2662,43 @@
     "email": "dattatraya.anarse@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dattatraya Anarse.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 56,
@@ -2087,7 +2710,43 @@
     "email": "pooja.potdar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Pooja Potdar.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 57,
@@ -2099,7 +2758,43 @@
     "email": "manjusha.devkule@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Manjusha Devkule.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 58,
@@ -2111,7 +2806,43 @@
     "email": "geetanjali.zambare@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Geetanjali Zambare.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 59,
@@ -2123,7 +2854,43 @@
     "email": "sachin.shinde@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sachin Shinde.jpeg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 60,
@@ -2135,7 +2902,43 @@
     "email": "sanjay.mapari@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sanjay Mapari.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 61,
@@ -2147,7 +2950,43 @@
     "email": "rajesh.talekar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rajesh Talekar.jfif",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 62,
@@ -2159,7 +2998,43 @@
     "email": "prajakta.pendam@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Prajakta Pendam.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 63,
@@ -2171,7 +3046,43 @@
     "email": "vithika.sidhabhatt@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Vithika Sidhabhatti.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 64,
@@ -2183,7 +3094,43 @@
     "email": "rebecca.george@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rebecca George.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 65,
@@ -2195,7 +3142,43 @@
     "email": "bhausaheb.sanap@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Bhausaheb Sanap.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   },
   {
     "id": 66,
@@ -2207,6 +3190,42 @@
     "email": "viveka.godse@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Viveka Godse.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+    ]
+    }
   }
 ]
