@@ -209,7 +209,7 @@
         role: isTeacher ? 'teacher' : 'student',
         name: extractName(username),
         id: username,
-        regNo: '125B1D062',
+        regNo: '',
         branch: 'B.Tech. Computer Engineering - (Regional Language)'
       };
 
