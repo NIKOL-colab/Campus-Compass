@@ -210,7 +210,7 @@
         name: extractName(username),
         id: username,
         regNo: '',
-        branch: 'B.Tech. Computer Engineering - (Regional Language)'
+        branch: 'B.Tech.'
       };
 
       localStorage.setItem('cc_session', JSON.stringify(session));
