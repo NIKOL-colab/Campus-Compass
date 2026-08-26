@@ -9,10 +9,10 @@
       "Machine Learning"
     ],
     "cabin": "CS Block, Room 204",
-    "phone": "+91 98765 43210",
+    "phone": "+91 93830 77128",
     "email": "rajesh.kumar@pccoepune.org",
     "status": "in-cabin",
-    "photo": "faculty_01.jpg",
+    "photo": "",
     "timetable": {
       "Monday": [
         {
@@ -61,10 +61,10 @@
       "Cloud Computing"
     ],
     "cabin": "IT Block, Room 208",
-    "phone": "+91 98765 43211",
+    "phone": "+91 86160 42264",
     "email": "jayashree.katti@pccoepune.org",
     "status": "in-class",
-    "photo": "images/faculty/Jayashree V. Katti.JPG",
+    "photo": "images/faculty/Jayashree V. Katti.jpg",
     "timetable": {
       "Monday": [
         {
@@ -113,10 +113,10 @@
       "Embedded Systems"
     ],
     "cabin": "E&TC Block, Room 112",
-    "phone": "+91 98765 43212",
+    "phone": "+91 97696 23983",
     "email": "vikram.patel@pccoepune.org",
     "status": "in-cabin",
-    "photo": "faculty_03.jpg",
+    "photo": "",
     "timetable": {
       "Monday": [
         {
@@ -165,10 +165,10 @@
       "Antenna Design"
     ],
     "cabin": "VLSI Block, Room 115",
-    "phone": "+91 98765 43213",
+    "phone": "+91 71124 73263",
     "email": "meera.joshi@pccoepune.org",
     "status": "on-leave",
-    "photo": "faculty_04.jpg",
+    "photo": "",
     "timetable": {
       "Monday": [
         {
@@ -217,10 +217,10 @@
       "Heat Transfer"
     ],
     "cabin": "ME Block, Room 305",
-    "phone": "+91 98765 43214",
+    "phone": "+91 84108 94818",
     "email": "suresh.reddy@pccoepune.org",
     "status": "in-cabin",
-    "photo": "faculty_05.jpg",
+    "photo": "",
     "timetable": {
       "Monday": [
         {
@@ -269,10 +269,10 @@
       "Robotics"
     ],
     "cabin": "ME Block, Room 308",
-    "phone": "+91 98765 43215",
+    "phone": "+91 79775 01661",
     "email": "priya.nair@pccoepune.org",
     "status": "in-class",
-    "photo": "faculty_06.jpg",
+    "photo": "",
     "timetable": {
       "Monday": [
         {
@@ -321,10 +321,10 @@
       "Geotechnical Engineering"
     ],
     "cabin": "Civil Block, Room 106",
-    "phone": "+91 98765 43216",
+    "phone": "+91 73253 57912",
     "email": "arjun.mehta@pccoepune.org",
     "status": "in-cabin",
-    "photo": "faculty_07.jpg",
+    "photo": "",
     "timetable": {
       "Monday": [
         {
@@ -373,10 +373,10 @@
       "Surveying"
     ],
     "cabin": "Civil Block, Room 109",
-    "phone": "+91 98765 43217",
+    "phone": "+91 80253 90907",
     "email": "kavitha.sundaram@pccoepune.org",
     "status": "in-cabin",
-    "photo": "faculty_08.jpg",
+    "photo": "",
     "timetable": {
       "Monday": [
         {
@@ -425,10 +425,10 @@
       "Deep Learning"
     ],
     "cabin": "AIML Block, Room 210",
-    "phone": "+91 98765 43218",
+    "phone": "+91 80516 65911",
     "email": "sanjay.gupta@pccoepune.org",
     "status": "in-class",
-    "photo": "faculty_09.jpg",
+    "photo": "",
     "timetable": {
       "Monday": [
         {
@@ -477,10 +477,10 @@
       "Cybersecurity"
     ],
     "cabin": "CS Block, Room 211",
-    "phone": "+91 98765 43220",
+    "phone": "+91 80483 13834",
     "email": "ramesh.iyer@pccoepune.org",
     "status": "in-cabin",
-    "photo": "faculty_11.jpg",
+    "photo": "",
     "timetable": {
       "Monday": [
         {
@@ -529,10 +529,10 @@
       "Neural Networks"
     ],
     "cabin": "AIML Block, Room 215",
-    "phone": "+91 98765 43221",
+    "phone": "+91 88685 78201",
     "email": "lakshmi.venkatesh@pccoepune.org",
     "status": "in-class",
-    "photo": "faculty_12.jpg",
+    "photo": "",
     "timetable": {
       "Monday": [
         {
@@ -581,10 +581,10 @@
       "Discrete Mathematics"
     ],
     "cabin": "ASH Block, Room 401",
-    "phone": "+91 98765 43222",
+    "phone": "+91 97804 61866",
     "email": "neha.agarwal@pccoepune.org",
     "status": "in-cabin",
-    "photo": "faculty_13.jpg",
+    "photo": "",
     "timetable": {
       "Monday": [
         {
@@ -633,10 +633,10 @@
       "Engineering Chemistry"
     ],
     "cabin": "ASH Block, Room 405",
-    "phone": "+91 98765 43223",
+    "phone": "+91 71940 56681",
     "email": "anil.deshmukh@pccoepune.org",
     "status": "on-leave",
-    "photo": "faculty_14.jpg",
+    "photo": "",
     "timetable": {
       "Monday": [
         {
@@ -685,10 +685,10 @@
       "Cloud Security"
     ],
     "cabin": "IT Block, Room 218",
-    "phone": "+91 98765 43224",
+    "phone": "+91 76395 75377",
     "email": "roshani.raut@pccoepune.org",
     "status": "in-cabin",
-    "photo": "images/faculty/Roshani Raut.jpg",
+    "photo": "images/faculty/Roshani Raut.avif",
     "timetable": {
       "Monday": [
         {
@@ -737,7 +737,7 @@
       "C++"
     ],
     "cabin": "CERL Block",
-    "phone": "+91 80871 74347",
+    "phone": "+91 97606 93649",
     "email": "rachana.patil@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rachana Patil.jpg",
@@ -789,7 +789,7 @@
       "C++"
     ],
     "cabin": "CERL Block",
-    "phone": "+91 80871 74347",
+    "phone": "+91 93034 77788",
     "email": "sujata.kolhe@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sujata Kolhe.webp",
@@ -823,7 +823,7 @@
       "C++"
     ],
     "cabin": "6th Building 5th floor Room 19",
-    "phone": "+91 80871 74347",
+    "phone": "+91 72369 65997",
     "email": "vinayak.malavade@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Vinayak Malavade.jpg",
@@ -869,7 +869,7 @@
       "C++"
     ],
     "cabin": "CERL Block",
-    "phone": "+91 80871 74347",
+    "phone": "+91 81923 19843",
     "email": "anandkumar.birajdar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Anandkumar Birajdar.jpg",
@@ -921,7 +921,7 @@
       "C++"
     ],
     "cabin": "CERL Block",
-    "phone": "+91 80871 74347",
+    "phone": "+91 78165 89100",
     "email": "ganesh.deshmukh@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Ganesh Deshmukh.jpg",
@@ -973,7 +973,7 @@
       "C++"
     ],
     "cabin": "CERL Block",
-    "phone": "+91 80871 74347",
+    "phone": "+91 88382 45780",
     "email": "rucha.shinde@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rucha A. Shinde.webp",
@@ -1025,7 +1025,7 @@
       "C++"
     ],
     "cabin": "CERL Block",
-    "phone": "+91 80871 74347",
+    "phone": "+91 85511 26582",
     "email": "minal.shahakar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Minal Shahakar.jpg",
@@ -1107,7 +1107,7 @@
       "C++"
     ],
     "cabin": "CERL Block",
-    "phone": "+91 80871 74347",
+    "phone": "+91 74812 56433",
     "email": "shalu.mahajan@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Shalu Mahajan.jpg",
@@ -1163,7 +1163,7 @@
       "C++"
     ],
     "cabin": "CERL Block",
-    "phone": "+91 80871 74347",
+    "phone": "+91 89852 67740",
     "email": "varsha.pandagre@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Varsha Pandagre.jpg",
@@ -1215,7 +1215,7 @@
       "C++"
     ],
     "cabin": "CERL Block",
-    "phone": "+91 80871 74347",
+    "phone": "+91 89672 04339",
     "email": "supriya.vaishnav@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Supriya A Vaishnav.jpg",
@@ -1265,7 +1265,7 @@
       "Design Thinking"
     ],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 79931 38911",
     "email": "geetanjali.bansod@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Geetanjali D. Bansod.webp",
@@ -1314,7 +1314,7 @@
       "Engineering Mathematics"
     ],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 95003 12569",
     "email": "leena.sharma@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Leena Sharma.webp",
@@ -1362,7 +1362,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 79536 53838",
     "email": "sanjivani.sonar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sanjivani Sonar.webp",
@@ -1410,7 +1410,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 76352 76910",
     "email": "arfi.bagwan@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Arfi Bagwan.jfif",
@@ -1458,7 +1458,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 70956 02974",
     "email": "priya.joshi@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Priya Joshi.webp",
@@ -1506,7 +1506,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 77176 40390",
     "email": "sonali.kale@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sonali Kale.jfif",
@@ -1554,7 +1554,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 89882 22353",
     "email": "ashwini.vaze@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Ashwini Vaze.jfif",
@@ -1602,7 +1602,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 88912 89768",
     "email": "minakshi.panchal@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Minakshi Panchal.jfif",
@@ -1650,7 +1650,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 73786 15668",
     "email": "sujata.bhamre@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sujata Bhamre.jfif",
@@ -1698,7 +1698,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 91291 08236",
     "email": "falguni.bhavsar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Falguni Bhavsar.jpeg",
@@ -1746,7 +1746,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 90370 04086",
     "email": "sushma.parmar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sushma Parmar.jfif",
@@ -1794,7 +1794,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 86038 13649",
     "email": "mahadev.kadam@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mahadev Kadam.jfif",
@@ -1842,7 +1842,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 80284 75437",
     "email": "shaziya.shaikh@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Shaziya Shaikh.jfif",
@@ -1890,7 +1890,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 71454 01001",
     "email": "sandeep.patil@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sandeep Patil.jpeg",
@@ -1938,10 +1938,10 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 83597 20767",
     "email": "neha.sharma@pccoepune.org",
     "status": "in-cabin",
-    "photo": "images/faculty/Neha Sharma.jpg",
+    "photo": "images/faculty/Neha Sharma.jfif",
     "timetable": {
       "Monday": [
         {
@@ -1986,7 +1986,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 78337 61806",
     "email": "amruta.patil@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Amruta Patil.jpg",
@@ -2034,7 +2034,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 83302 49960",
     "email": "sandip.jagadale@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sandip Jagadale.webp",
@@ -2082,7 +2082,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 83363 79330",
     "email": "mohit.prasad@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mohit Prasad.jfif",
@@ -2130,7 +2130,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 78834 00810",
     "email": "amol.karche@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Amol Karche.webp",
@@ -2178,7 +2178,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 83854 91718",
     "email": "arun.khalkar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Arun Khalkar.webp",
@@ -2226,7 +2226,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 79235 32600",
     "email": "nishi.gupta@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Nishi Gupta.jfif",
@@ -2274,7 +2274,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 93786 32999",
     "email": "brijesh.deshmukh@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Brijesh Deshmukh.jfif",
@@ -2322,7 +2322,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 83364 92502",
     "email": "jayashri.lohar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Jayashri Lohar.jpg",
@@ -2370,7 +2370,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 87780 32870",
     "email": "kaustubh.jhadhav@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Kaustubh Jhadhav.webp",
@@ -2418,7 +2418,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 88314 93358",
     "email": "ganesh.mundhe@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Ganesh Mundhe.webp",
@@ -2466,7 +2466,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 71530 27990",
     "email": "rajendra.jagtap@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rajendra Jagtap.webp",
@@ -2514,7 +2514,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 73418 65677",
     "email": "anjali.sakurkar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Anjali Sakurkar.jfif",
@@ -2562,7 +2562,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 75468 09562",
     "email": "dinesh.kute@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dinesh Kute.jfif",
@@ -2610,7 +2610,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 92398 38993",
     "email": "ganesh.tarte@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Ganesh Tarte.jfif",
@@ -2658,7 +2658,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 86909 00797",
     "email": "dattatraya.anarse@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dattatraya Anarse.jpg",
@@ -2706,7 +2706,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 86103 04548",
     "email": "pooja.potdar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Pooja Potdar.webp",
@@ -2754,7 +2754,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 85833 85474",
     "email": "manjusha.devkule@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Manjusha Devkule.webp",
@@ -2802,7 +2802,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 94974 19960",
     "email": "geetanjali.zambare@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Geetanjali Zambare.webp",
@@ -2850,7 +2850,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 85461 69705",
     "email": "sachin.shinde@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sachin Shinde.jpeg",
@@ -2898,7 +2898,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 87515 05205",
     "email": "sanjay.mapari@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sanjay Mapari.jfif",
@@ -2946,7 +2946,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 94410 77982",
     "email": "rajesh.talekar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rajesh Talekar.jfif",
@@ -2994,7 +2994,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 95006 79589",
     "email": "prajakta.pendam@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Prajakta Pendam.webp",
@@ -3042,7 +3042,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 84163 17487",
     "email": "vithika.sidhabhatt@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Vithika Sidhabhatti.webp",
@@ -3090,7 +3090,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 91409 97565",
     "email": "rebecca.george@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rebecca George.webp",
@@ -3138,7 +3138,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 82800 64474",
     "email": "bhausaheb.sanap@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Bhausaheb Sanap.jpg",
@@ -3186,7 +3186,7 @@
     "department": "Applied Science and Humanities",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 93873 62459",
     "email": "viveka.godse@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Viveka Godse.jpg",
@@ -3234,7 +3234,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 75755 83081",
     "email": "rajesh.phursule@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rajesh N. Phursule.jpg",
@@ -3282,7 +3282,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 77598 08915",
     "email": "jaya.dewan@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Jaya Dewan.jpg",
@@ -3335,10 +3335,10 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 82238 75926",
     "email": "ramkrishna.vadalii@pccoepune.org",
     "status": "in-cabin",
-    "photo": "images/faculty/Ramkrishna S. Vadalii.JPG",
+    "photo": "images/faculty/Ramkrishna S. Vadalii.jpg",
     "timetable": {
       "Monday": [
         {
@@ -3383,7 +3383,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 86689 95701",
     "email": "rohini.pise@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rohini G. Pise.jpg",
@@ -3431,7 +3431,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 85945 02013",
     "email": "sandhya.waghere@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sandhya Sandeep Waghere.png",
@@ -3479,7 +3479,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 97318 19622",
     "email": "tanuja.patankar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Tanuja S. Patankar.jpg",
@@ -3527,7 +3527,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 96739 76763",
     "email": "babita.jane@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Babita R. Jane.jpg",
@@ -3575,7 +3575,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 95470 89168",
     "email": "ashvini.ladekar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Ashvini C. Ladekar.jpg",
@@ -3623,7 +3623,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 94461 39939",
     "email": "maya.bembde@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Maya S. Bembde.jpg",
@@ -3671,7 +3671,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 80271 63929",
     "email": "mukta.jamage@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mukta Jamage.png",
@@ -3719,7 +3719,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 79344 40461",
     "email": "radha.deoghare@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Radha Deoghare.jpg",
@@ -3767,7 +3767,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 70377 54627",
     "email": "rakhi.pagar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rakhi Subhash Pagar.jpg",
@@ -3815,10 +3815,10 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 87234 47459",
     "email": "alpana.borse@pccoepune.org",
     "status": "in-cabin",
-    "photo": "images/faculty/Alpana A. Borse.JPG",
+    "photo": "images/faculty/Alpana A. Borse.jpg",
     "timetable": {
       "Monday": [
         {
@@ -3863,10 +3863,10 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 76490 90508",
     "email": "sphurti.deshmukh@pccoepune.org",
     "status": "in-cabin",
-    "photo": "images/faculty/Sphurti Deshmukh.JPG",
+    "photo": "images/faculty/Sphurti Deshmukh.jpg",
     "timetable": {
       "Monday": [
         {
@@ -3936,7 +3936,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 88958 02057",
     "email": "rohit.tate@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Rohit Tate.jpg",
@@ -3984,10 +3984,10 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 73781 89993",
     "email": "shradha.tawade@pccoepune.org",
     "status": "in-cabin",
-    "photo": "images/faculty/Shradha Tawade.JPG",
+    "photo": "images/faculty/Shradha Tawade.jpg",
     "timetable": {
       "Monday": [
         {
@@ -4032,7 +4032,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 84571 09619",
     "email": "madhuri.kethari@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Madhuri Kethari.jpg",
@@ -4080,10 +4080,10 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 81812 94455",
     "email": "shweta.devdas@pccoepune.org",
     "status": "in-cabin",
-    "photo": "images/faculty/Shweta S. Devdas.JPG",
+    "photo": "images/faculty/Shweta S. Devdas.jpg",
     "timetable": {
       "Monday": [
         {
@@ -4128,7 +4128,7 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 83493 24239",
     "email": "sapana.kolambe@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sapana Kolambe.jpg",
@@ -4176,10 +4176,10 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 74415 53877",
     "email": "vidhya.vasekar@pccoepune.org",
     "status": "in-cabin",
-    "photo": "images/faculty/Mrs. Vidhya Vasekar",
+    "photo": "images/faculty/Vidhya Vasekar.jpg",
     "timetable": {
       "Monday": [
         {
@@ -4224,10 +4224,10 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 97870 28956",
     "email": "prachi.karale@pccoepune.org",
     "status": "in-cabin",
-    "photo": "images/faculty/Prachi Karale.JPG",
+    "photo": "images/faculty/Prachi Karale.jpg",
     "timetable": {
       "Monday": [
         {
@@ -4272,10 +4272,10 @@
     "department": "Information Technology",
     "subjects": [],
     "cabin": "6th Building",
-    "phone": "+91 93259 71969",
+    "phone": "+91 77170 99852",
     "email": "jyoti.manoorkar@pccoepune.org",
     "status": "in-cabin",
-    "photo": "images/faculty/Jyoti Manoorkar.JPG",
+    "photo": "images/faculty/Jyoti Manoorkar.jpg",
     "timetable": {
       "Monday": [
         {
