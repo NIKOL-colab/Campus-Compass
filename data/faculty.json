@@ -10,7 +10,7 @@
     ],
     "cabin": "CS Block, Room 204",
     "phone": "+91 98765 43210",
-    "email": "rajesh.kumar@college.edu",
+    "email": "rajesh.kumar@pccoepune.org",
     "status": "in-cabin",
     "photo": "faculty_01.jpg",
     "timetable": {
@@ -27,33 +27,33 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
     "id": 2,
-    "name": "Prof. Anita Sharma",
+    "name": "Dr. Jayashree V. Katti ",
     "department": "Information Technology",
     "subjects": [
       "Database Management",
@@ -62,9 +62,9 @@
     ],
     "cabin": "IT Block, Room 208",
     "phone": "+91 98765 43211",
-    "email": "anita.sharma@college.edu",
+    "email": "jayashree.katti@pccoepune.org",
     "status": "in-class",
-    "photo": "faculty_02.jpg",
+    "photo": "images/faculty/Jayashree V. Katti.JPG",
     "timetable": {
       "Monday": [
         {
@@ -79,28 +79,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -114,7 +114,7 @@
     ],
     "cabin": "E&TC Block, Room 112",
     "phone": "+91 98765 43212",
-    "email": "vikram.patel@college.edu",
+    "email": "vikram.patel@pccoepune.org",
     "status": "in-cabin",
     "photo": "faculty_03.jpg",
     "timetable": {
@@ -131,28 +131,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -166,7 +166,7 @@
     ],
     "cabin": "VLSI Block, Room 115",
     "phone": "+91 98765 43213",
-    "email": "meera.joshi@college.edu",
+    "email": "meera.joshi@pccoepune.org",
     "status": "on-leave",
     "photo": "faculty_04.jpg",
     "timetable": {
@@ -183,28 +183,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -218,7 +218,7 @@
     ],
     "cabin": "ME Block, Room 305",
     "phone": "+91 98765 43214",
-    "email": "suresh.reddy@college.edu",
+    "email": "suresh.reddy@pccoepune.org",
     "status": "in-cabin",
     "photo": "faculty_05.jpg",
     "timetable": {
@@ -235,28 +235,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -270,7 +270,7 @@
     ],
     "cabin": "ME Block, Room 308",
     "phone": "+91 98765 43215",
-    "email": "priya.nair@college.edu",
+    "email": "priya.nair@pccoepune.org",
     "status": "in-class",
     "photo": "faculty_06.jpg",
     "timetable": {
@@ -287,28 +287,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -322,7 +322,7 @@
     ],
     "cabin": "Civil Block, Room 106",
     "phone": "+91 98765 43216",
-    "email": "arjun.mehta@college.edu",
+    "email": "arjun.mehta@pccoepune.org",
     "status": "in-cabin",
     "photo": "faculty_07.jpg",
     "timetable": {
@@ -339,28 +339,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -374,10 +374,10 @@
     ],
     "cabin": "Civil Block, Room 109",
     "phone": "+91 98765 43217",
-    "email": "kavitha.sundaram@college.edu",
+    "email": "kavitha.sundaram@pccoepune.org",
     "status": "in-cabin",
     "photo": "faculty_08.jpg",
-    "timetable":{
+    "timetable": {
       "Monday": [
         {
           "time": "",
@@ -391,28 +391,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -426,7 +426,7 @@
     ],
     "cabin": "AIML Block, Room 210",
     "phone": "+91 98765 43218",
-    "email": "sanjay.gupta@college.edu",
+    "email": "sanjay.gupta@pccoepune.org",
     "status": "in-class",
     "photo": "faculty_09.jpg",
     "timetable": {
@@ -443,28 +443,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -478,7 +478,7 @@
     ],
     "cabin": "CS Block, Room 211",
     "phone": "+91 98765 43220",
-    "email": "ramesh.iyer@college.edu",
+    "email": "ramesh.iyer@pccoepune.org",
     "status": "in-cabin",
     "photo": "faculty_11.jpg",
     "timetable": {
@@ -495,28 +495,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -530,7 +530,7 @@
     ],
     "cabin": "AIML Block, Room 215",
     "phone": "+91 98765 43221",
-    "email": "lakshmi.venkatesh@college.edu",
+    "email": "lakshmi.venkatesh@pccoepune.org",
     "status": "in-class",
     "photo": "faculty_12.jpg",
     "timetable": {
@@ -547,28 +547,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -582,7 +582,7 @@
     ],
     "cabin": "ASH Block, Room 401",
     "phone": "+91 98765 43222",
-    "email": "neha.agarwal@college.edu",
+    "email": "neha.agarwal@pccoepune.org",
     "status": "in-cabin",
     "photo": "faculty_13.jpg",
     "timetable": {
@@ -599,28 +599,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -634,7 +634,7 @@
     ],
     "cabin": "ASH Block, Room 405",
     "phone": "+91 98765 43223",
-    "email": "anil.deshmukh@college.edu",
+    "email": "anil.deshmukh@pccoepune.org",
     "status": "on-leave",
     "photo": "faculty_14.jpg",
     "timetable": {
@@ -651,33 +651,33 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
     "id": 15,
-    "name": "Dr. Pooja Bhatt",
+    "name": "Dr. Roshani Raut ",
     "department": "Information Technology",
     "subjects": [
       "Software Engineering",
@@ -686,9 +686,9 @@
     ],
     "cabin": "IT Block, Room 218",
     "phone": "+91 98765 43224",
-    "email": "pooja.bhatt@college.edu",
+    "email": "roshani.raut@pccoepune.org",
     "status": "in-cabin",
-    "photo": "faculty_15.jpg",
+    "photo": "images/faculty/Roshani Raut.jpg",
     "timetable": {
       "Monday": [
         {
@@ -703,28 +703,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -755,28 +755,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -853,7 +853,7 @@
       "Friday": [
         {
           "time": "01:10 PM - 03:10 PM",
-          "subject": "LSY A3 DEVL Lab",
+          "subject": "SY A3 DEVL Lab",
           "room": "Bldg 6, 1st Fl, Rm 19"
         }
       ]
@@ -887,28 +887,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -939,28 +939,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -991,28 +991,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1181,28 +1181,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1233,28 +1233,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1332,28 +1332,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1363,7 +1363,7 @@
     "subjects": [],
     "cabin": "6th Building",
     "phone": "+91 93259 71969",
-    "email": "shanjivani.sonar@pccoepune.org",
+    "email": "sanjivani.sonar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sanjivani Sonar.webp",
     "timetable": {
@@ -1380,28 +1380,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1428,28 +1428,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1476,28 +1476,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1524,28 +1524,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1572,28 +1572,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1620,28 +1620,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1668,28 +1668,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1716,28 +1716,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1764,28 +1764,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1812,28 +1812,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1860,28 +1860,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1891,7 +1891,7 @@
     "subjects": [],
     "cabin": "6th Building",
     "phone": "+91 93259 71969",
-    "email": "snadeep.patil@pccoepune.org",
+    "email": "sandeep.patil@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sandeep Patil.jpeg",
     "timetable": {
@@ -1908,28 +1908,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -1956,28 +1956,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2004,28 +2004,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2035,7 +2035,7 @@
     "subjects": [],
     "cabin": "6th Building",
     "phone": "+91 93259 71969",
-    "email": "snadip.jagadale@pccoepune.org",
+    "email": "sandip.jagadale@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Sandip Jagadale.webp",
     "timetable": {
@@ -2052,28 +2052,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2100,28 +2100,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2148,28 +2148,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2196,28 +2196,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2244,28 +2244,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2292,28 +2292,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2340,28 +2340,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2388,28 +2388,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2436,28 +2436,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2484,28 +2484,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2532,28 +2532,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2580,28 +2580,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2628,28 +2628,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2676,28 +2676,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2724,28 +2724,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2772,28 +2772,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2820,28 +2820,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2868,28 +2868,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2916,28 +2916,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -2964,28 +2964,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -3012,28 +3012,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -3060,28 +3060,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -3108,28 +3108,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -3156,28 +3156,28 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
     }
   },
   {
@@ -3204,28 +3204,1114 @@
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Wednesday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Thursday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ],
+      ],
       "Friday": [
         {
           "time": "",
           "subject": "",
           "room": ""
         }
-    ]
+      ]
+    }
+  },
+  {
+    "id": 67,
+    "name": "Dr. Rajesh N. Phursule",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "rajesh.phursule@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Rajesh N. Phursule.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 68,
+    "name": "Dr. Jaya Dewan",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "jaya.dewan@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Jaya Dewan.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 AM - 11:00 AM",
+          "subject": "SY A4 OOP Lab",
+          "room": "Bldg 5, 4th Fl, Rm 2"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 AM - 11:00 AM",
+          "subject": "SY A4 OOP Lab",
+          "room": "Bldg 5, 4th Fl, Rm 2"
+        },
+        {
+          "time": "11:10 AM - 12:10 PM",
+          "subject": "SY A4 OOP Lab",
+          "room": "Bldg 5, 4th Fl, Rm 2"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 AM - 11:00 AM",
+          "subject": "SY A3 OOP Lab",
+          "room": "Bldg 5, 4th Fl, Rm 2"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "09:00 AM - 10:00 AM",
+          "subject": "Theory",
+          "room": "Bldg 5, 3rd Fl, Rm 4"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 AM - 11:00 AM",
+          "subject": "SY A1 OOP Lab",
+          "room": "Bldg 5, 4th Fl, Rm 2"
+        }
+      ]
+    }
+  },
+  {
+    "id": 69,
+    "name": "Mr. Ramkrishna S. Vadalii",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "ramkrishna.vadalii@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Ramkrishna S. Vadalii.JPG",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 70,
+    "name": "Dr.Rohini G. Pise",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "rohini.pise@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Rohini G. Pise.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "09:00 AM - 10:00 AM",
+          "subject": "Theory",
+          "room": "Bldg 5, 2nd Fl, Rm 4"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "11:10 AM - 12:10 PM",
+          "subject": "Theory",
+          "room": "Bldg 5, 2nd Fl, Rm 4"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 71,
+    "name": "Dr. Sandhya Sandeep Waghere",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "sandhya.waghere@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Sandhya Sandeep Waghere.png",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 72,
+    "name": "Mrs. Tanuja S. Patankar",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "tanuja.patankar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Tanuja S. Patankar.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 73,
+    "name": "Mrs. Babita R. Jane",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "babita.jane@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Babita R. Jane.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 74,
+    "name": "Dr. Ashvini C. Ladekar",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "ashvini.ladekar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Ashvini C. Ladekar.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 75,
+    "name": "Dr. Maya S. Bembde",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "maya.bembde@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Maya S. Bembde.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 76,
+    "name": "Dr. Mukta Jamage",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "mukta.jamage@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mukta Jamage.png",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 77,
+    "name": "Mrs. Radha Deoghare",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "radha.deoghare@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Radha Deoghare.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 78,
+    "name": "Ms.Rakhi Subhash Pagar ",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "rakhi.pagar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Rakhi Subhash Pagar.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 79,
+    "name": "Ms. Alpana A. Borse",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "alpana.borse@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Alpana A. Borse.JPG",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 80,
+    "name": "Mrs. Sphurti Deshmukh",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "sphurti.deshmukh@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Sphurti Deshmukh.JPG",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "09:00 AM - 11:00 AM",
+          "subject": "SY A3 DS Lab",
+          "room": "Bldg 5, 4th Fl, Rm 5"
+        },
+        {
+          "time": "02:10 PM - 04:10 PM",
+          "subject": "SY A4 DS Lab",
+          "room": "Bldg 5, 4th Fl, Rm 5"
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "10:00 AM - 11:00 AM",
+          "subject": "SY A1 DS Lab",
+          "room": "Bldg 5, 4th Fl, Rm 5"
+        },
+        {
+          "time": "11:10 AM - 12:10 PM",
+          "subject": "SY A1 DS Lab",
+          "room": "Bldg 5, 4th Fl, Rm 5"
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "09:00 AM - 11:00 AM",
+          "subject": "SY A2 DS Lab",
+          "room": "Bldg 5, 4th Fl, Rm 5"
+        },
+        {
+          "time": "03:10 PM - 05:10 PM",
+          "subject": "SY A4 DS Lab",
+          "room": "Bldg 5, 4th Fl, Rm 5"
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "11:10 AM - 12:10 PM",
+          "subject": "Theory",
+          "room": "Bldg 5, 3rd Fl, Rm 3"
+        },
+        {
+          "time": "02:10 PM - 04:10 PM",
+          "subject": "SY A3 DS Lab",
+          "room": "Bldg 5, 4th Fl, Rm 5"
+        }
+      ],
+      "Friday": [
+        {
+          "time": "09:00 AM - 11:00 AM",
+          "subject": "SY A2 DS Lab",
+          "room": "Bldg 5, 4th Fl, Rm 5"
+        },
+        {
+          "time": "11:10 AM - 12:10 PM",
+          "subject": "Theory",
+          "room": "Bldg 5, 3rd Fl, Rm 3"
+        }
+      ]
+    }
+  },
+  {
+    "id": 81,
+    "name": "Mr. Rohit Tate",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "rohit.tate@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Rohit Tate.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 82,
+    "name": "Mrs. Shradha Tawade",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "shradha.tawade@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Shradha Tawade.JPG",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 83,
+    "name": "Mrs.Madhuri Kethari",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "madhuri.kethari@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Madhuri Kethari.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 84,
+    "name": "Mrs. Shweta S. Devdas",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "shweta.devdas@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Shweta S. Devdas.JPG",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 85,
+    "name": "Dr.Sapana Kolambe",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "sapana.kolambe@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Sapana Kolambe.jpg",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 86,
+    "name": "Mrs. Vidhya Vasekar",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "vidhya.vasekar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mrs. Vidhya Vasekar",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 87,
+    "name": "Ms. Prachi Karale",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "prachi.karale@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Prachi Karale.JPG",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": 88,
+    "name": "Mrs. Jyoti Manoorkar",
+    "department": "Information Technology",
+    "subjects": [],
+    "cabin": "6th Building",
+    "phone": "+91 93259 71969",
+    "email": "jyoti.manoorkar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Jyoti Manoorkar.JPG",
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
     }
   }
 ]
