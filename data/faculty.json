@@ -4953,5 +4953,277 @@
     "status": "in-cabin",
     "photo": "images/faculty/Mrs. Kalpana S. Patil.webp",
     "timetable": {}
+  },
+  {
+    "id": 129,
+    "name": "Dr. A.K. Gaikwad",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "ak.gaikwad@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. A.K. Gaikwad.webp",
+    "timetable": {}
+  },
+  {
+    "id": 130,
+    "name": "Dr. S. T. Mali",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "s.mali@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. S. T. Mali.webp",
+    "timetable": {}
+  },
+  {
+    "id": 131,
+    "name": "Dr. S. S. Motegaonkar",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "s.motegaonkar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. S. S. Motegaonkar.jpg",
+    "timetable": {}
+  },
+  {
+    "id": 132,
+    "name": "Dr. D. S. Lal",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "d.lal@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. D. S. Lal.webp",
+    "timetable": {}
+  },
+  {
+    "id": 133,
+    "name": "Dr. R. S. Chaudhari",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "r.chaudhari@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. R. S. Chaudhari.webp",
+    "timetable": {}
+  },
+  {
+    "id": 134,
+    "name": "Mrs. J. N. Changade",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "j.changade@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mrs. J. N. Changade.webp",
+    "timetable": {}
+  },
+  {
+    "id": 135,
+    "name": "Mr. S. B. Gorade",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "s.gorade@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mr. S. B. Gorade.webp",
+    "timetable": {}
+  },
+  {
+    "id": 136,
+    "name": "Ms. P. V. Kalokhe",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "p.kalokhe@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Ms. P. V. Kalokhe.webp",
+    "timetable": {}
+  },
+  {
+    "id": 137,
+    "name": "Mrs. K. D. Dhapekar",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "k.dhapekar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mrs. K. D. Dhapekar.webp",
+    "timetable": {}
+  },
+  {
+    "id": 138,
+    "name": "Dr. Tanmay S. Khambekar",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "tanmay.khambekar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. Tanmay S. Khambekar.webp",
+    "timetable": {}
+  },
+  {
+    "id": 139,
+    "name": "Mrs. N. S. Sane",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "n.sane@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mrs. N. S. Sane.webp",
+    "timetable": {}
+  },
+  {
+    "id": 140,
+    "name": "Dr. S. P. Banne",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "s.banne@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. S. P. Banne.webp",
+    "timetable": {}
+  },
+  {
+    "id": 141,
+    "name": "Dr. S. D. Kurhade",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "s.kurhade@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. S. D. Kurhade.webp",
+    "timetable": {}
+  },
+  {
+    "id": 142,
+    "name": "Ms. A. A. Chandragade",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "a.chandragade@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Ms. A. A. Chandragade.webp",
+    "timetable": {}
+  },
+  {
+    "id": 143,
+    "name": "Dr. P. R. Mali",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "p.mali@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. P. R. Mali.webp",
+    "timetable": {}
+  },
+  {
+    "id": 144,
+    "name": "Dr. Vinay Ashok Rangari",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "vinay.rangari@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. Vinay Ashok Rangari.jpeg",
+    "timetable": {}
+  },
+  {
+    "id": 145,
+    "name": "Dr. Suresh Nama",
+    "department": "Civil Engineering",
+    "subjects": [
+      "Fluid Mechanics",
+      "Structural Analysis",
+      "Surveying"
+    ],
+    "cabin": "Civil Block",
+    "phone": "+91 00000 00000",
+    "email": "suresh.nama@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. Suresh Nama.jpeg",
+    "timetable": {}
   }
 ]
