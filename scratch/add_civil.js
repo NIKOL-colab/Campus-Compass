@@ -59,7 +59,13 @@ names.forEach(name => {
     email: email,
     status: 'in-cabin',
     photo: photoPath,
-    timetable: {}
+    timetable: {
+      "Monday": [ { "time": "", "subject": "", "room": "" } ],
+      "Tuesday": [ { "time": "", "subject": "", "room": "" } ],
+      "Wednesday": [ { "time": "", "subject": "", "room": "" } ],
+      "Thursday": [ { "time": "", "subject": "", "room": "" } ],
+      "Friday": [ { "time": "", "subject": "", "room": "" } ]
+    }
   });
 });
 

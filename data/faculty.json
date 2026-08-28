@@ -105,18 +105,18 @@
   },
   {
     "id": 3,
-    "name": "Dr. Vikram Patel",
+    "name": "Mrs. Kalpana S. Patil",
     "department": "Electronics and Telecommunication Engineering",
     "subjects": [
-      "Digital Electronics",
-      "VLSI Design",
-      "Embedded Systems"
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
     ],
-    "cabin": "E&TC Block, Room 112",
-    "phone": "+91 97696 23983",
-    "email": "vikram.patel@pccoepune.org",
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "kalpana.patil@pccoepune.org",
     "status": "in-cabin",
-    "photo": "",
+    "photo": "images/faculty/Mrs. Kalpana S. Patil.webp",
     "timetable": {
       "Monday": [
         {
@@ -4328,7 +4328,43 @@
     "email": "a.patil@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. A. B. Patil.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 90,
@@ -4344,7 +4380,43 @@
     "email": "kishor.kinage@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. Kishor Kinage.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 91,
@@ -4360,7 +4432,43 @@
     "email": "n.chopade@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. N. B. Chopade.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 92,
@@ -4376,7 +4484,43 @@
     "email": "s.bhandari@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. S. U. Bhandari.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 93,
@@ -4392,7 +4536,43 @@
     "email": "m.kolte@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. M. T. Kolte.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 94,
@@ -4408,7 +4588,43 @@
     "email": "s.tade@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. S. L. Tade.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 95,
@@ -4424,7 +4640,43 @@
     "email": "a.suryawanshi@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. A. R. Suryawanshi.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 96,
@@ -4440,7 +4692,43 @@
     "email": "v.harpale@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. V. K. Harpale.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 97,
@@ -4456,7 +4744,43 @@
     "email": "p.rajani@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. P. K. Rajani.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 98,
@@ -4472,7 +4796,43 @@
     "email": "varsha.bendre@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. Varsha S Bendre.png",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 99,
@@ -4488,7 +4848,43 @@
     "email": "d.khurge@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. D. S. Khurge.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 100,
@@ -4504,7 +4900,43 @@
     "email": "suwarna.shete@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. Suwarna Shete.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 101,
@@ -4520,7 +4952,43 @@
     "email": "a.pawar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. A. S. Pawar.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 102,
@@ -4536,7 +5004,43 @@
     "email": "p.jog@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. P. A. Jog.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 103,
@@ -4552,7 +5056,43 @@
     "email": "a.shrivastav@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. A. A. Shrivastav.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 104,
@@ -4568,7 +5108,43 @@
     "email": "swati.jagtap@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. Swati P. Jagtap.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 105,
@@ -4584,7 +5160,43 @@
     "email": "p.sonawane@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. P. R. Sonawane.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 106,
@@ -4600,7 +5212,43 @@
     "email": "a.shinde@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. A. S. Shinde.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 107,
@@ -4616,7 +5264,43 @@
     "email": "s.nagarale@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. S. D. Nagarale.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 108,
@@ -4632,7 +5316,43 @@
     "email": "k.kotangale@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. K. B. Kotangale.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 109,
@@ -4648,7 +5368,43 @@
     "email": "m.narkhede@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. M. M. Narkhede.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 110,
@@ -4664,7 +5420,43 @@
     "email": "s.patil@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. S. V. Patil.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 111,
@@ -4680,7 +5472,43 @@
     "email": "g.rahate@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. G. R. Rahate.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 112,
@@ -4696,7 +5524,43 @@
     "email": "u.shirode@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. U. R. Shirode.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 113,
@@ -4712,7 +5576,43 @@
     "email": "p.sontakke@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. P. V. Sontakke.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 114,
@@ -4728,7 +5628,43 @@
     "email": "s.patil@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. S. A. Patil.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 115,
@@ -4744,7 +5680,43 @@
     "email": "rashmi.patil@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. Rashmi Vishal Patil.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 116,
@@ -4760,7 +5732,43 @@
     "email": "prasad.maldhure@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. Prasad N. Maldhure.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 117,
@@ -4776,7 +5784,43 @@
     "email": "a.gaadhe@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. A. S. Gaadhe.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 118,
@@ -4792,7 +5836,43 @@
     "email": "v.kulkarni@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mrs. V. A. Kulkarni.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 119,
@@ -4808,7 +5888,43 @@
     "email": "s.deoghare@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mrs. S. U. Deoghare.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 120,
@@ -4824,7 +5940,43 @@
     "email": "s.kadam@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mrs. S. P. Kadam.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 121,
@@ -4840,7 +5992,43 @@
     "email": "s.dhavale@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mrs. S. M. Dhavale.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 122,
@@ -4856,7 +6044,43 @@
     "email": "m.bhandarkar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. M. S. Bhandarkar.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 123,
@@ -4872,7 +6096,43 @@
     "email": "s.sawant@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mrs. S. Y. Sawant.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 124,
@@ -4888,7 +6148,43 @@
     "email": "s.ayane@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mr. S. S. Ayane.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 125,
@@ -4904,7 +6200,43 @@
     "email": "a.bhamare@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mrs. A. V. Bhamare.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 126,
@@ -4920,7 +6252,43 @@
     "email": "sonal.shirke@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. Sonal I. Shirke.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 127,
@@ -4936,26 +6304,46 @@
     "email": "vaishali.patil@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mrs. Vaishali Nilesh Patil.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
     "id": 128,
-    "name": "Mrs. Kalpana S. Patil",
-    "department": "Electronics and Telecommunication Engineering",
-    "subjects": [
-      "Signals and Systems",
-      "Digital Logic",
-      "Microcontrollers"
-    ],
-    "cabin": "E&TC Block",
-    "phone": "+91 00000 00000",
-    "email": "kalpana.patil@pccoepune.org",
-    "status": "in-cabin",
-    "photo": "images/faculty/Mrs. Kalpana S. Patil.webp",
-    "timetable": {}
-  },
-  {
-    "id": 129,
     "name": "Dr. A.K. Gaikwad",
     "department": "Civil Engineering",
     "subjects": [
@@ -4968,10 +6356,46 @@
     "email": "ak.gaikwad@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. A.K. Gaikwad.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 130,
+    "id": 129,
     "name": "Dr. S. T. Mali",
     "department": "Civil Engineering",
     "subjects": [
@@ -4984,10 +6408,46 @@
     "email": "s.mali@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. S. T. Mali.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 131,
+    "id": 130,
     "name": "Dr. S. S. Motegaonkar",
     "department": "Civil Engineering",
     "subjects": [
@@ -5000,10 +6460,46 @@
     "email": "s.motegaonkar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. S. S. Motegaonkar.jpg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 132,
+    "id": 131,
     "name": "Dr. D. S. Lal",
     "department": "Civil Engineering",
     "subjects": [
@@ -5016,10 +6512,46 @@
     "email": "d.lal@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. D. S. Lal.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 133,
+    "id": 132,
     "name": "Dr. R. S. Chaudhari",
     "department": "Civil Engineering",
     "subjects": [
@@ -5032,10 +6564,46 @@
     "email": "r.chaudhari@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. R. S. Chaudhari.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 134,
+    "id": 133,
     "name": "Mrs. J. N. Changade",
     "department": "Civil Engineering",
     "subjects": [
@@ -5048,10 +6616,46 @@
     "email": "j.changade@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mrs. J. N. Changade.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 135,
+    "id": 134,
     "name": "Mr. S. B. Gorade",
     "department": "Civil Engineering",
     "subjects": [
@@ -5064,10 +6668,46 @@
     "email": "s.gorade@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mr. S. B. Gorade.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 136,
+    "id": 135,
     "name": "Ms. P. V. Kalokhe",
     "department": "Civil Engineering",
     "subjects": [
@@ -5080,10 +6720,46 @@
     "email": "p.kalokhe@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Ms. P. V. Kalokhe.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 137,
+    "id": 136,
     "name": "Mrs. K. D. Dhapekar",
     "department": "Civil Engineering",
     "subjects": [
@@ -5096,10 +6772,46 @@
     "email": "k.dhapekar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mrs. K. D. Dhapekar.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 138,
+    "id": 137,
     "name": "Dr. Tanmay S. Khambekar",
     "department": "Civil Engineering",
     "subjects": [
@@ -5112,10 +6824,46 @@
     "email": "tanmay.khambekar@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. Tanmay S. Khambekar.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 139,
+    "id": 138,
     "name": "Mrs. N. S. Sane",
     "department": "Civil Engineering",
     "subjects": [
@@ -5128,10 +6876,46 @@
     "email": "n.sane@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Mrs. N. S. Sane.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 140,
+    "id": 139,
     "name": "Dr. S. P. Banne",
     "department": "Civil Engineering",
     "subjects": [
@@ -5144,10 +6928,46 @@
     "email": "s.banne@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. S. P. Banne.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 141,
+    "id": 140,
     "name": "Dr. S. D. Kurhade",
     "department": "Civil Engineering",
     "subjects": [
@@ -5160,10 +6980,46 @@
     "email": "s.kurhade@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. S. D. Kurhade.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 142,
+    "id": 141,
     "name": "Ms. A. A. Chandragade",
     "department": "Civil Engineering",
     "subjects": [
@@ -5176,10 +7032,46 @@
     "email": "a.chandragade@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Ms. A. A. Chandragade.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 143,
+    "id": 142,
     "name": "Dr. P. R. Mali",
     "department": "Civil Engineering",
     "subjects": [
@@ -5192,10 +7084,46 @@
     "email": "p.mali@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. P. R. Mali.webp",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 144,
+    "id": 143,
     "name": "Dr. Vinay Ashok Rangari",
     "department": "Civil Engineering",
     "subjects": [
@@ -5208,10 +7136,46 @@
     "email": "vinay.rangari@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. Vinay Ashok Rangari.jpeg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   },
   {
-    "id": 145,
+    "id": 144,
     "name": "Dr. Suresh Nama",
     "department": "Civil Engineering",
     "subjects": [
@@ -5224,6 +7188,42 @@
     "email": "suresh.nama@pccoepune.org",
     "status": "in-cabin",
     "photo": "images/faculty/Dr. Suresh Nama.jpeg",
-    "timetable": {}
+    "timetable": {
+      "Monday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Tuesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Wednesday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Thursday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ],
+      "Friday": [
+        {
+          "time": "",
+          "subject": "",
+          "room": ""
+        }
+      ]
+    }
   }
 ]
