@@ -4313,5 +4313,645 @@
         }
       ]
     }
+  },
+  {
+    "id": 89,
+    "name": "Dr. A. B. Patil",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "a.patil@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. A. B. Patil.webp",
+    "timetable": {}
+  },
+  {
+    "id": 90,
+    "name": "Dr. Kishor Kinage",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "kishor.kinage@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. Kishor Kinage.webp",
+    "timetable": {}
+  },
+  {
+    "id": 91,
+    "name": "Dr. N. B. Chopade",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "n.chopade@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. N. B. Chopade.webp",
+    "timetable": {}
+  },
+  {
+    "id": 92,
+    "name": "Dr. S. U. Bhandari",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "s.bhandari@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. S. U. Bhandari.webp",
+    "timetable": {}
+  },
+  {
+    "id": 93,
+    "name": "Dr. M. T. Kolte",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "m.kolte@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. M. T. Kolte.webp",
+    "timetable": {}
+  },
+  {
+    "id": 94,
+    "name": "Dr. S. L. Tade",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "s.tade@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. S. L. Tade.webp",
+    "timetable": {}
+  },
+  {
+    "id": 95,
+    "name": "Dr. A. R. Suryawanshi",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "a.suryawanshi@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. A. R. Suryawanshi.webp",
+    "timetable": {}
+  },
+  {
+    "id": 96,
+    "name": "Dr. V. K. Harpale",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "v.harpale@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. V. K. Harpale.webp",
+    "timetable": {}
+  },
+  {
+    "id": 97,
+    "name": "Dr. P. K. Rajani",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "p.rajani@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. P. K. Rajani.webp",
+    "timetable": {}
+  },
+  {
+    "id": 98,
+    "name": "Dr. Varsha S Bendre",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "varsha.bendre@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. Varsha S Bendre.png",
+    "timetable": {}
+  },
+  {
+    "id": 99,
+    "name": "Dr. D. S. Khurge",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "d.khurge@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. D. S. Khurge.webp",
+    "timetable": {}
+  },
+  {
+    "id": 100,
+    "name": "Dr. Suwarna Shete",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "suwarna.shete@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. Suwarna Shete.webp",
+    "timetable": {}
+  },
+  {
+    "id": 101,
+    "name": "Dr. A. S. Pawar",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "a.pawar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. A. S. Pawar.webp",
+    "timetable": {}
+  },
+  {
+    "id": 102,
+    "name": "Dr. P. A. Jog",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "p.jog@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. P. A. Jog.webp",
+    "timetable": {}
+  },
+  {
+    "id": 103,
+    "name": "Dr. A. A. Shrivastav",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "a.shrivastav@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. A. A. Shrivastav.webp",
+    "timetable": {}
+  },
+  {
+    "id": 104,
+    "name": "Dr. Swati P. Jagtap",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "swati.jagtap@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. Swati P. Jagtap.webp",
+    "timetable": {}
+  },
+  {
+    "id": 105,
+    "name": "Dr. P. R. Sonawane",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "p.sonawane@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. P. R. Sonawane.webp",
+    "timetable": {}
+  },
+  {
+    "id": 106,
+    "name": "Dr. A. S. Shinde",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "a.shinde@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. A. S. Shinde.webp",
+    "timetable": {}
+  },
+  {
+    "id": 107,
+    "name": "Dr. S. D. Nagarale",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "s.nagarale@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. S. D. Nagarale.webp",
+    "timetable": {}
+  },
+  {
+    "id": 108,
+    "name": "Dr. K. B. Kotangale",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "k.kotangale@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. K. B. Kotangale.webp",
+    "timetable": {}
+  },
+  {
+    "id": 109,
+    "name": "Dr. M. M. Narkhede",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "m.narkhede@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. M. M. Narkhede.webp",
+    "timetable": {}
+  },
+  {
+    "id": 110,
+    "name": "Dr. S. V. Patil",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "s.patil@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. S. V. Patil.webp",
+    "timetable": {}
+  },
+  {
+    "id": 111,
+    "name": "Dr. G. R. Rahate",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "g.rahate@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. G. R. Rahate.webp",
+    "timetable": {}
+  },
+  {
+    "id": 112,
+    "name": "Dr. U. R. Shirode",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "u.shirode@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. U. R. Shirode.webp",
+    "timetable": {}
+  },
+  {
+    "id": 113,
+    "name": "Dr. P. V. Sontakke",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "p.sontakke@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. P. V. Sontakke.webp",
+    "timetable": {}
+  },
+  {
+    "id": 114,
+    "name": "Dr. S. A. Patil",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "s.patil@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. S. A. Patil.webp",
+    "timetable": {}
+  },
+  {
+    "id": 115,
+    "name": "Dr. Rashmi Vishal Patil",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "rashmi.patil@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. Rashmi Vishal Patil.webp",
+    "timetable": {}
+  },
+  {
+    "id": 116,
+    "name": "Dr. Prasad N. Maldhure",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "prasad.maldhure@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. Prasad N. Maldhure.webp",
+    "timetable": {}
+  },
+  {
+    "id": 117,
+    "name": "Dr. A. S. Gaadhe",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "a.gaadhe@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. A. S. Gaadhe.webp",
+    "timetable": {}
+  },
+  {
+    "id": 118,
+    "name": "Mrs. V. A. Kulkarni",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "v.kulkarni@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mrs. V. A. Kulkarni.webp",
+    "timetable": {}
+  },
+  {
+    "id": 119,
+    "name": "Mrs. S. U. Deoghare",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "s.deoghare@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mrs. S. U. Deoghare.webp",
+    "timetable": {}
+  },
+  {
+    "id": 120,
+    "name": "Mrs. S. P. Kadam",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "s.kadam@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mrs. S. P. Kadam.webp",
+    "timetable": {}
+  },
+  {
+    "id": 121,
+    "name": "Mrs. S. M. Dhavale",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "s.dhavale@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mrs. S. M. Dhavale.webp",
+    "timetable": {}
+  },
+  {
+    "id": 122,
+    "name": "Dr. M. S. Bhandarkar",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "m.bhandarkar@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. M. S. Bhandarkar.webp",
+    "timetable": {}
+  },
+  {
+    "id": 123,
+    "name": "Mrs. S. Y. Sawant",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "s.sawant@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mrs. S. Y. Sawant.webp",
+    "timetable": {}
+  },
+  {
+    "id": 124,
+    "name": "Mr. S. S. Ayane",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "s.ayane@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mr. S. S. Ayane.webp",
+    "timetable": {}
+  },
+  {
+    "id": 125,
+    "name": "Mrs. A. V. Bhamare",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "a.bhamare@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mrs. A. V. Bhamare.webp",
+    "timetable": {}
+  },
+  {
+    "id": 126,
+    "name": "Dr. Sonal I. Shirke",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "sonal.shirke@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Dr. Sonal I. Shirke.webp",
+    "timetable": {}
+  },
+  {
+    "id": 127,
+    "name": "Mrs. Vaishali Nilesh Patil",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "vaishali.patil@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mrs. Vaishali Nilesh Patil.webp",
+    "timetable": {}
+  },
+  {
+    "id": 128,
+    "name": "Mrs. Kalpana S. Patil",
+    "department": "Electronics and Telecommunication Engineering",
+    "subjects": [
+      "Signals and Systems",
+      "Digital Logic",
+      "Microcontrollers"
+    ],
+    "cabin": "E&TC Block",
+    "phone": "+91 00000 00000",
+    "email": "kalpana.patil@pccoepune.org",
+    "status": "in-cabin",
+    "photo": "images/faculty/Mrs. Kalpana S. Patil.webp",
+    "timetable": {}
   }
 ]
